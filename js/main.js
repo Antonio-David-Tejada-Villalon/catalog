@@ -21,7 +21,7 @@ fetch('../books.json')
 		let name = x.TITULO.toLowerCase();
         console.log(name)
 		if(name.indexOf(text) !== -1){
-			result.innerHTML += `<a href="#${x.TITULO}" class="list-group-item d-flex justify-content-between align-items-start sc1"> <span class="badge bg-primary">${x.TITULO}</span> Precio: <span class="badge bg-secondary sc1">$ ${x.IMPORTE}</a>`
+			result.innerHTML += `<a href="#${x.TITULO}" class="list-group-item d-flex justify-content-between align-items-start"> <div class="badge bg-primary text-wrap">${x.TITULO}</div> Precio: <span class="badge bg-secondary">$ ${x.IMPORTE}</a>`
 		}
 	}
 	if(result.innerHTML === ''){
