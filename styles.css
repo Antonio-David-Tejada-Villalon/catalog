@@ -41,19 +41,62 @@ img{
 
 .card{
     border: none;
+    margin-bottom: 1rem;
 }
 
 .card h5{
     text-align: center;
-}
-
-#book{
-    display: grid;
-    grid-template-columns: auto auto auto;
-    grid-gap: 1rem;
+    margin-top: 1rem;
 }
 
 #book .card{
     display: flex;
     align-items: center;
+}
+
+.modal-title{
+    text-align: center;
+}
+
+.box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Extra small devices (portrait phones, less than 576px)
+No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    #book{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 1rem;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    #book{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1rem;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    #book{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) ;
+        grid-gap: 1rem;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    #book{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr) ;
+        grid-gap: 1rem;
+    }
 }
