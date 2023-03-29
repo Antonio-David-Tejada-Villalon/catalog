@@ -72,6 +72,11 @@ No media query for `xs` since this is the default in Bootstrap */
         grid-template-columns: 1fr;
         grid-gap: 1rem;
     }
+
+    .sc1{
+        font-size: 1rem;
+        margin: 1rem;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
