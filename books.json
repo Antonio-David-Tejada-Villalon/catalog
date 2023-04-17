@@ -416,7 +416,10 @@
      "ISBN": "978-987-25124-5-3",
      "MEDIDAS": "19X14",
      "PAG": 116,
-     "CODIGO": "A863.928 2"
+     "CODIGO": "A863.928 2",
+     "IMAGEN": "https:\/\/i.ibb.co\/qB6cdYN\/Barrio-de-ratones-lunas-y-misterios.jpg",
+     "BREVE": "Novela Infanto-juvenil",
+     "TEMATICA": "Narrativa Infantil Argentina"
     },
     {
      "TITULO": "Bodegas sanjuaninas",
@@ -464,7 +467,10 @@
      "ISBN": "978-987-29179-1-3",
      "MEDIDAS": "23x16",
      "PAG": 160,
-     "CODIGO": "A863"
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/cJ35gC7\/Carroza-velorio-y-casorio.jpg",
+     "BREVE": "Relatos",
+     "TEMATICA": "Narrativa"
     },
     {
      "TITULO": "Carta del medio ambiente y su dinamica en el departamento Chimbas",
@@ -1759,8 +1765,7 @@
     {
      "TITULO": "Kit: libreta+señalador+sticker",
      "AUTOR": "Hernández, Mafalda",
-     "IMPORTE": 800,
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "IMPORTE": 800
     },
     {
      "TITULO": "La actividad musical en el instituto superior de artes en San Juan: proyección artistica y educativa 1960-1965",
@@ -2164,8 +2169,7 @@
      "IMPORTE": 600,
      "ISBN": "978-987-86-8760-5",
      "MEDIDAS": "21x14",
-     "CODIGO": 808899282,
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "CODIGO": 808899282
     },
     {
      "TITULO": "Los héroes olvidados de la cuesta de Chacabuco",
@@ -2353,8 +2357,7 @@
      "ISBN": "978-987-88-0310-4",
      "MEDIDAS": "21x14",
      "PAG": 8,
-     "CODIGO": "A808.899282",
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "CODIGO": "A808.899282"
     },
     {
      "TITULO": "Mi superhéroe comenzó a sonreír",
@@ -2390,8 +2393,7 @@
      "ISBN": "978-987-88-0450-7",
      "MEDIDAS": "20x14",
      "PAG": 108,
-     "CODIGO": "372.21",
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "CODIGO": "372.21"
     },
     {
      "TITULO": "Mis experiencias docentes 2",
@@ -2401,8 +2403,7 @@
      "ISBN": "978-987-88-0451-4",
      "MEDIDAS": "20x15",
      "PAG": 94,
-     "CODIGO": "372.21",
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "CODIGO": "372.21"
     },
     {
      "TITULO": "Mis obras",
