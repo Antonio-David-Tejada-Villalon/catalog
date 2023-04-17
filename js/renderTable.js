@@ -38,8 +38,8 @@ export default function renderTable(d){
 			  <li class="list-group-item list-group-item-light d-flex justify-content-between">Editorial: <span class="badge bg-dark">${d[i].EDITORIAL}</li>
 			  <li class="list-group-item list-group-item-light d-flex justify-content-between">ISBN: <span class="badge bg-dark">${d[i].ISBN}</li>
 			  <li class="list-group-item list-group-item-light d-flex justify-content-between">Paginas: <span class="badge bg-dark"> ${d[i].PAG}</li>
-			  <li class="list-group-item list-group-item-light d-flex justify-content-between">Tematica: <span class="badge bg-dark"> ${d[i].TEMATICA}</span></li>
-			  <li class="list-group-item list-group-item-light d-flex justify-content-between">Breve Reseña: <span class="badge bg-dark">${d[i].BREVE}</span></li>
+			  <li class="list-group-item list-group-item-light d-flex justify-content-between">Tematica: <span class="badge bg-dark text-wrap"> ${d[i].TEMATICA}</span></li>
+			  <li class="list-group-item list-group-item-light d-flex justify-content-between">Reseña: <span class="badge bg-dark text-wrap px-1 fix-line"> ${d[i].BREVE}</span></li>
 			</ul>
 			  </div>
 			  <div class="modal-footer">
