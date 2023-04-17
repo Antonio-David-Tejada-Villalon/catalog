@@ -494,7 +494,7 @@
      "PAG": 670,
      "CODIGO": 305898,
      "IMAGEN": "https:\/\/i.ibb.co\/m4zwxxK\/Cartograf-a-de-conflictos-en-territorios-indigenas-del-Cuyum-Re.jpg",
-     "BREVE": "El libro aborda de manera crítica temas que suelen desvincularse del análisis e interpretación de los conflictos contemporáneos que atraviesan a las poblaciones indígenas de Cuyo (San Juan, Mendoza, San Luis y La Rioja) como son las operaciones por las cuales se ha creado una imagen política de los territorios, necesaria para administrar las diferencias culturales producto de las diferencias coloniales en un contexto que prioriza el modelo socioterritorial neoextractivista. Ésta es la más reciente publicación en el sello editorial de la Universidad Nacional de San Juan en torno a la investigación social en territorio.",
+     "BREVE": "El libro aborda de manera crítica temas que suelen desvincularse del análisis e interpretación de los conflictos contemporáneos que atraviesan a las poblaciones indígenas de Cuyo (San Juan, Mendoza, San Luis y La Rioja) como son las operaciones por las cuales se ha creado una imagen política de los territorios, necesaria para administrar las diferencias culturales producto de las diferencias coloniales en un contexto que prioriza el modelo socioterritorial neoextractivista.&nbsp;Ésta es la más reciente publicación en el sello editorial de la Universidad Nacional de San Juan en torno a la investigación social en territorio.",
      "TEMATICA": "territorio, agua, procesos de organización y producción de alteridades, políticas patrimoniales y turísticas, economía social y políticas de vivienda, educación, lenguas indígenas y políticas interculturales."
     },
     {
@@ -1765,7 +1765,8 @@
     {
      "TITULO": "Kit: libreta+señalador+sticker",
      "AUTOR": "Hernández, Mafalda",
-     "IMPORTE": 800
+     "IMPORTE": 800,
+     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
     },
     {
      "TITULO": "La actividad musical en el instituto superior de artes en San Juan: proyección artistica y educativa 1960-1965",
@@ -2169,7 +2170,8 @@
      "IMPORTE": 600,
      "ISBN": "978-987-86-8760-5",
      "MEDIDAS": "21x14",
-     "CODIGO": 808899282
+     "CODIGO": 808899282,
+     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
     },
     {
      "TITULO": "Los héroes olvidados de la cuesta de Chacabuco",
@@ -2256,7 +2258,7 @@
      "MEDIDAS": "30x21",
      "PAG": 58,
      "IMAGEN": "https:\/\/i.ibb.co\/mJz8TW3\/Manual-para-la-gesti-n-de-ferias-de-la-econom-a-social-y-solida.jpg",
-     "BREVE": "La obra busca compartir una experiencia extensionista entre la Facultad de Ingeniería UNSJ- Oficial, la Universidad Nacional de Quilmes y la comunidad sanjuanina de Calingasta, en vías de generar mayor diálogo de saberes en torno a la Economía Social y Solidaria y funcionar como una guía para proyectos autogestionados y colaborativos",
+     "BREVE": "La obra busca compartir una experiencia extensionista entre la&nbsp;Facultad de Ingeniería UNSJ- Oficial, la&nbsp;Universidad Nacional de Quilmes&nbsp;y la comunidad sanjuanina de Calingasta, en vías de generar mayor diálogo de saberes en torno a la Economía Social y Solidaria y funcionar como una guía para proyectos autogestionados y colaborativos",
      "TEMATICA": "1. Gestion 2. Ferias 3. Economia"
     },
     {
@@ -2357,7 +2359,8 @@
      "ISBN": "978-987-88-0310-4",
      "MEDIDAS": "21x14",
      "PAG": 8,
-     "CODIGO": "A808.899282"
+     "CODIGO": "A808.899282",
+     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
     },
     {
      "TITULO": "Mi superhéroe comenzó a sonreír",
@@ -2393,7 +2396,8 @@
      "ISBN": "978-987-88-0450-7",
      "MEDIDAS": "20x14",
      "PAG": 108,
-     "CODIGO": "372.21"
+     "CODIGO": "372.21",
+     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
     },
     {
      "TITULO": "Mis experiencias docentes 2",
@@ -2403,7 +2407,8 @@
      "ISBN": "978-987-88-0451-4",
      "MEDIDAS": "20x15",
      "PAG": 94,
-     "CODIGO": "372.21"
+     "CODIGO": "372.21",
+     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
     },
     {
      "TITULO": "Mis obras",
