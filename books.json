@@ -1,5 +1,40 @@
 [
     {
+     "TITULO": " FARSA voz en off. Compilado San Juan escribe ",
+     "AUTOR": "Acosta, María Elena",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-79-3",
+     "MEDIDAS": "21x15",
+     "PAG": 54,
+     "CODIGO": "A862",
+     "IMAGEN": "https:\/\/i.ibb.co\/m0GGrNx\/FARSA-voz-en-off-Compilado-San-Juan-escribe-Acosta-Mar-a-E.jpg"
+    },
+    {
+     "TITULO": "¡Quéséyo!",
+     "AUTOR": "Oliva, Darío",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-62-5",
+     "MEDIDAS": "21x15",
+     "PAG": 172,
+     "CODIGO": "A861.9282",
+     "IMAGEN": "https:\/\/i.ibb.co\/1RVNgPc\/Qu-s-yo-Oliva-Dar-o.jpg"
+    },
+    {
+     "TITULO": "¡Viva Jáchal, pura luces!",
+     "AUTOR": "Tejada, Miguel",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-32-8",
+     "MEDIDAS": "21x15",
+     "PAG": 137,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/6WX3FFZ\/Viva-J-chal-puras-luces.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "Poesía Regional "
+    },
+    {
      "TITULO": "¿Algo Habran Hecho? Una mirada crítica de la violencia de género en San Juan",
      "AUTOR": "Avila, Laura y otros",
      "EDITORIAL": "EFU",
@@ -52,6 +87,32 @@
      "TEMATICA": "Historia de la  Educación"
     },
     {
+     "TITULO": "¿Qué pasa entre unos y otros?",
+     "AUTOR": "Sánchez Rodríguez, Yanina Pamela ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-42-7",
+     "MEDIDAS": "21x15",
+     "PAG": 133,
+     "CODIGO": 3719043028,
+     "IMAGEN": "https:\/\/i.ibb.co\/SQYp6VC\/Que-pasa-entre-unos-y-otros.jpg",
+     "BREVE": "Esta obra aborda la relación construida entre las personas con discapacidad y esos “otros”, los caballos. Relación que enlaza características singulares de los protagonistas, con un abordaje cuidado y respetuoso de las particularidades, a la vez que supone una mirada pedagógica de la Equinoterapia. En un recorrido que entrama saberes, percepciones y emociones, este libro confía en el poder performativo de las miradas, las caricias y las enseñanzas auténticas, sabiendo que junto a otros se gestan los intercambios y las interacciones que dan lugar a los verdaderos aprendizajes.",
+     "TEMATICA": "1. Educación 2. Discapacidad 3.Caballos 4. Psicología"
+    },
+    {
+     "TITULO": "¿Qué?",
+     "AUTOR": "Quiroga de Nápoli, María Celina",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-15-1",
+     "MEDIDAS": "21x15",
+     "PAG": 104,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/Y3WzBY5\/QU.jpg",
+     "BREVE": "El Concurso San Juan Escribe nace como iniciativa de la Cámara de Diputados a fin de visibilizar a los autores noveles sanjuaninos y contribuir al quehacer literario local, a través de la edición de obras seleccionadas.",
+     "TEMATICA": "1 Novela "
+    },
+    {
      "TITULO": "10 Historias ",
      "AUTOR": "Brizuela, Gabriel Eduardo",
      "EDITORIAL": "EFU",
@@ -61,7 +122,6 @@
      "PAG": 216,
      "CODIGO": 909,
      "IMAGEN": "https:\/\/i.ibb.co\/55XvvPp\/10-Historias-Brizuela-Gabriel-Eduardo.jpg",
-     "BREVE": "10 narraciones enmarcadas en diferentes ámbitos témporoespaciales",
      "TEMATICA": "1.Historia 2. Narrativa"
     },
     {
@@ -74,8 +134,21 @@
      "PAG": 242,
      "CODIGO": 863,
      "IMAGEN": "https:\/\/i.ibb.co\/6ZRW68n\/13-cuentistas-sanjuaninos-Aciar-Nahuel-y-otros.png",
-     "BREVE": "Antología cooperativa de 13 destacados narradores sanjuaninos. La obra sigue el destino de grandes poetas clásicos de la provincia, como Jorge Escudero y José Campus.",
+     "BREVE": "Novela.",
      "TEMATICA": "Narrativa Argentina  2. Cuentos.3.San Juan.4.Argentina."
+    },
+    {
+     "TITULO": "1944 Crónicas desde el silencio",
+     "AUTOR": "Ocampo, Lilian Rosa",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-4-4",
+     "MEDIDAS": "22x15",
+     "PAG": 114,
+     "CODIGO": 982,
+     "IMAGEN": "https:\/\/i.ibb.co\/NCK25S9\/1944-Cr-nicas-desde-el-silencio-Ocampo-Lilian-Rosa.jpg",
+     "BREVE": "Novela que relata las historias de cuatro mujeres envueltas en el trágico terremoto que sacudió San Juan.",
+     "TEMATICA": "1 Novela histórica"
     },
     {
      "TITULO": "200 años La ruta de la libertad: camino de los patos. El lugar estratégico por donde cruzó el General José de San Martin Cordillera de los Andes-San Juan- Argentina ",
@@ -130,6 +203,19 @@
      "TEMATICA": "Educación en valores"
     },
     {
+     "TITULO": "A 100 años de historia: Escuela Normal Fray Justo Sta. María de Oro Jáchal",
+     "AUTOR": "Silva, Mirtha y otros",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-17-5",
+     "MEDIDAS": "21x15",
+     "PAG": 150,
+     "CODIGO": 370,
+     "IMAGEN": "https:\/\/i.ibb.co\/N9kTWqP\/Cien-A-os-de-Historia.jpg",
+     "BREVE": "Reseña Histórica y anecdotaria de la Antigua escuela  Jachallera",
+     "TEMATICA": "1 Historia de la Educación 2 Historia de las Instituciones "
+    },
+    {
      "TITULO": "A 100 años de la reforma universitaria de 1918. Miradas y propuestas de la UNSJ",
      "AUTOR": "Salcedo, Elio Noé (comp)",
      "EDITORIAL": "EFU",
@@ -138,13 +224,54 @@
      "MEDIDAS": "23x16",
      "PAG": 256,
      "CODIGO": 378009,
-     "IMAGEN": "https:\/\/i.ibb.co\/v1SPngw\/A-100-a-os-de-la-reforma-universitaria-de-1918-Miradas-y-propu.jpg"
+     "IMAGEN": "https:\/\/i.ibb.co\/v1SPngw\/A-100-a-os-de-la-reforma-universitaria-de-1918-Miradas-y-propu.jpg",
+     "BREVE": "Crónicas sobre la reforma universitaria ",
+     "TEMATICA": "1.  Reforma 2.Universidad "
+    },
+    {
+     "TITULO": "A 150 años de la asunción de Domingo Faustino Sarmiento como presidente de la Nación (1868-2018)",
+     "AUTOR": "Mariel Erostarbe, Juan",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-29-8",
+     "MEDIDAS": "21x15",
+     "PAG": 162,
+     "CODIGO": 982,
+     "IMAGEN": "https:\/\/i.ibb.co\/j6CkJMR\/A-150-a-os-de-la-asunci-n-de-Domingo-Faustino-Sarmiento-como-pr.jpg",
+     "BREVE": "Historia de la obra de Domingo F. Sarmiento",
+     "TEMATICA": "Historia Argentina"
+    },
+    {
+     "TITULO": "A 200 años de una gesta histórica: la batalla de Chacabuco",
+     "AUTOR": "Mendoza, Edgardo",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-09-0",
+     "MEDIDAS": "21x15",
+     "PAG": 126,
+     "CODIGO": "A862",
+     "IMAGEN": "https:\/\/i.ibb.co\/zXN8y49\/A-200-a-os-de-una-gesta-hist-rica-La-batalla-de-chacabuco.jpg",
+     "BREVE": "Recreación de acontecimientos históricos de hace 200 años, en relación con la Batalla de Chacabuco.",
+     "TEMATICA": "1 Historia. 2. Batalla 3. América del Sur"
+    },
+    {
+     "TITULO": "A 30 años de la Constitución de San Juan: La convención constituyente sus protagonistas, su legado",
+     "AUTOR": "Tripolone, Gerardo (coord.)",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-04-5",
+     "MEDIDAS": "30x21",
+     "PAG": 98,
+     "CODIGO": "342.02",
+     "IMAGEN": "https:\/\/i.ibb.co\/1QspMnX\/A-30-a-os-de-la-Constituci-n-de-San-Juan-La-convenci-n-constit.jpg",
+     "BREVE": "Historia Constitucional de la Prov. De San Juan.",
+     "TEMATICA": "1 Constitución"
     },
     {
      "TITULO": "Abrazando sombras",
      "AUTOR": "Luna, Nancy",
      "EDITORIAL": "Fondo Editorial  Camara de Diputado",
-     "IMPORTE": 1200,
+     "IMPORTE": 1300,
      "ISBN": "978-987-4034-71-7",
      "MEDIDAS": "21x17",
      "PAG": 102,
@@ -180,6 +307,19 @@
      "TEMATICA": "Agricultura familiar"
     },
     {
+     "TITULO": "Aguardiente Cuyano: origen, apogeo y decadencia del mayor destilado del cono sur de América",
+     "AUTOR": "Lacoste, Pablo",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-23135-4-8",
+     "MEDIDAS": "21x15",
+     "PAG": 110,
+     "CODIGO": "982.6",
+     "IMAGEN": "https:\/\/i.ibb.co\/wYwQHRX\/Aguardiente-cuyano.jpg",
+     "BREVE": "Estudio sobre la vitivinicultura Cuyana.",
+     "TEMATICA": "Historia 2. Historia Regional"
+    },
+    {
      "TITULO": "Almacén de poesía",
      "AUTOR": "González del Rio, Marcelo",
      "EDITORIAL": "Jarilla",
@@ -204,6 +344,30 @@
      "IMAGEN": "https:\/\/i.ibb.co\/72nF8C9\/Almas-regresivas-Gomez-Navas-Leandro.jpg",
      "BREVE": "Novela de ciencia ficción religiosa.",
      "TEMATICA": "1. Narrativa Argentina 2. Novelas de Ciencia Ficción"
+    },
+    {
+     "TITULO": "Ambulantes",
+     "AUTOR": "Aliaga Morrone, Martín",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-59-5",
+     "MEDIDAS": "21x15",
+     "PAG": 64,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/ZBkzH9S\/Ambulantes-Aliaga-Morrone-Martin.jpg"
+    },
+    {
+     "TITULO": "Amos y esclavos en San Juan de la frontera: convivencia y conflicto a fines del siglo XVIII",
+     "AUTOR": "Donoso Ríos; Ana Laura",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-14-4",
+     "MEDIDAS": "21x15",
+     "PAG": 160,
+     "CODIGO": "306.09",
+     "IMAGEN": "https:\/\/i.ibb.co\/Kh6GgZG\/Amos-y-esclavos-en-San-Juan-de-la-Frontera-Donoso-Ana-Laura.jpg",
+     "BREVE": "Es visibilizar el pasado de los africanos y afrodescendientes esclavizados que vivieron en San Juan de la Frontera en tiempos coloniales. Es poner en cuestionamiento las imágenes del “amo benévolo” y del “esclavo sumiso”, de esta manera busca apreciar la complejidad de estas relaciones que se sucedieron entre personas de diferente status jurídico, con la particularidad y ambigüedad de quienes eran considerados al mismo tiempo sujetos y mercancía.",
+     "TEMATICA": "1. Historia 2. Esclavitud"
     },
     {
      "TITULO": "Andinas: revista de estudios culturales. En torno a la arquitectura, el urbanismo y el diseño N°5 Año 6",
@@ -241,6 +405,55 @@
      "IMAGEN": "https:\/\/i.ibb.co\/x3FxNps\/An-cdotas-de-la-Infancia-Graciela-Simone.jpg",
      "BREVE": "Relatos anécdotas personales trascurridos en la infancia.",
      "TEMATICA": "1. Anécdotas 2. Relatos Personales 3.Literatura Argentina"
+    },
+    {
+     "TITULO": "Angel solo el amor nos salva",
+     "AUTOR": "Cañadas, Liliana",
+     "EDITORIAL": "De los cuatro Vientos",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-08-0872-5",
+     "MEDIDAS": "20x14",
+     "PAG": 160,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/BLTLxzT\/angel-solo-el-amor-nos-salva-Liliana-Ca-adas.jpg",
+     "BREVE": "Narraciones breves",
+     "TEMATICA": "Narrativa"
+    },
+    {
+     "TITULO": "Anomalías de una mente retorcida",
+     "AUTOR": "Castro Trigo, Pricila Abril",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-11-3",
+     "MEDIDAS": "21x15",
+     "PAG": 112,
+     "CODIGO": "A863.9283",
+     "IMAGEN": "https:\/\/i.ibb.co\/PTsTFyK\/Anomal-as-de-una-mente-retorcida.jpg",
+     "BREVE": "Antología de cuentos. El Concurso San Juan Escribe nace como iniciativa de la Cámara de Diputados a fin de visibilizar a los autores noveles sanjuaninos y contribuir al quehacer literario local, a través de la edición de obras seleccionadas. Cuentos de terror.",
+     "TEMATICA": "1 Narrativa Juvenil Argentina 2 Cuentos de Terror"
+    },
+    {
+     "TITULO": "Antigua Sed",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-04-9",
+     "MEDIDAS": "21x15",
+     "PAG": 70,
+     "IMAGEN": "https:\/\/i.ibb.co\/WF6dy4k\/Antigua-Sed-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Sonetos ",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
+     "TITULO": "Antología del Bicentenario del Gral.  Manuel Belgrano",
+     "AUTOR": "Aballay, Héctor {et.al}",
+     "EDITORIAL": "SADE",
+     "IMPORTE": 800,
+     "MEDIDAS": "22x15",
+     "PAG": 69,
+     "IMAGEN": "https:\/\/i.ibb.co\/sbBJbq2\/Antolog-a-del-Bicentenario-del-Gral-Manuel-Belgrano-SADE.jpg",
+     "BREVE": "Antología",
+     "TEMATICA": "1. Prosas 2. Poesias"
     },
     {
      "TITULO": "Antología literaria Sanjuanina siglo XX- incluye libro de actividades -",
@@ -291,6 +504,32 @@
      "IMAGEN": "https:\/\/i.ibb.co\/6n4znCF\/Antolog-a-po-tica-mi-sentir-N-2-Gil-Maldonado-Carlos.jpg",
      "BREVE": "Poemario",
      "TEMATICA": "1. Poesía Argentina"
+    },
+    {
+     "TITULO": "Antología San Juan En-Pluma 2018: 1° encuentro internacional de poetas",
+     "AUTOR": "Lo Bue, Adelina [et.al]",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-28-1",
+     "MEDIDAS": "21x15",
+     "PAG": 244,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/0VSLxyJ\/Antolog-a-San-Juan-En-Pluma-2018-1-encuentro-internacional-de.jpg",
+     "BREVE": "Antología",
+     "TEMATICA": "1. Antología de Poesías"
+    },
+    {
+     "TITULO": "Antología San Juan En-Pluma 2019: 2° encuentro internacional de poetas",
+     "AUTOR": "Burzac Sáenz, Alejandra [et.al]",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-44-1",
+     "MEDIDAS": "21x15",
+     "PAG": 260,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/4ZQkTPL\/Burzac-S-enz-Alejandra-et-al-Antolog-a-San-Juan-En-Pluma.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1. Antología de Poesías"
     },
     {
      "TITULO": "Apasionadas del Valle de Tulum: la historia de San Juan a través de sus mujeres",
@@ -358,6 +597,19 @@
      "TEMATICA": "1.Turismo Alternativo 2. Turismo de Aventura"
     },
     {
+     "TITULO": "Argentina, 200 años de Independencia (1816-2016)",
+     "AUTOR": "Algañaraz, Víctor- González, Mariana (Coord.)",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-06-9",
+     "MEDIDAS": "21x15",
+     "PAG": 358,
+     "CODIGO": 982,
+     "IMAGEN": "https:\/\/i.ibb.co\/MMftQQL\/Argentina-200-a-os-de-Independencia-1816-2016-Alga-araz-V.jpg",
+     "BREVE": "Análisis del Proceso de Independencia Argentina desde los puntos de vista históricos, sociales y biográficos.",
+     "TEMATICA": "1 Historia 2 Historia Argentina"
+    },
+    {
      "TITULO": "Arqueología de Angualasto: historia, ruinas y cóndores",
      "AUTOR": "Michieli, Catalina Teresa",
      "EDITORIAL": "FFHA UNSJ",
@@ -381,6 +633,19 @@
      "IMAGEN": "https:\/\/i.ibb.co\/CBtZ34p\/Arquitectura-recobrada-Vizcaino-Marcelo.jpg",
      "BREVE": "Arquitectura histórica ",
      "TEMATICA": "Arquitectura"
+    },
+    {
+     "TITULO": "Aspectos decimonónicos de la geografía en Argentina; Domingo F. Sarmiento y Germán Burmeister",
+     "AUTOR": "Hidalgo Durán, Iván",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-23-6",
+     "MEDIDAS": "21x15",
+     "PAG": 214,
+     "CODIGO": "910.9",
+     "IMAGEN": "https:\/\/i.ibb.co\/VHstNVT\/Aspectos-decimon-nicos-de-la-geograf-a-en-Argentina-Domingo-F.jpg",
+     "BREVE": "En esta obra se trabajó el método hermenéutico. También la aplicación del método genético y el método histórico. Con este recurso, se hace un rastreo del fenómeno de estudio donde se origina y volvemos al pasado solo para explicar el presente. El segundo método, reconoce desde el pasado un camino hacia el futuro, la idea radica en el desarrollo de la actividad científica decimonónica llevada a cabo en el país de antaño.",
+     "TEMATICA": "1-Geografía. 2-Historia "
     },
     {
      "TITULO": "Atlas del arte de San Juan 1",
@@ -447,6 +712,19 @@
      "TEMATICA": "1. Literatura Infantil 2. Argentina"
     },
     {
+     "TITULO": "Buenventura Luna: Su vida y su canto",
+     "AUTOR": "Hebe Almeida de Gargiulo - Elsa Esbry deYanzi - Alda Frassinelli de Vera",
+     "EDITORIAL": "Planeta",
+     "IMPORTE": 3000,
+     "ISBN": "978-950-49-6125-3",
+     "MEDIDAS": "23x15",
+     "PAG": 344,
+     "CODIGO": 920.71,
+     "IMAGEN": "https:\/\/i.ibb.co\/CKP8JFD\/Buenventura-Luna-Su-vida-y-su-canto-Hebe-Almeida-de-Gargiulo.jpg",
+     "BREVE": "Es una biografía escrita por [autor] que ofrece una visión detallada y apasionante de la vida y obra de Buenaventura Luna, uno de los más destacados cantautores de la música folklórica argentina. El libro ofrece una crónica completa de la vida de Luna, desde su infancia en la provincia de La Rioja, Argentina, hasta su consagración como uno de los grandes exponentes del folclore argentino.",
+     "TEMATICA": "1. Biografia "
+    },
+    {
      "TITULO": "Burla del tiempo",
      "AUTOR": "Arredondo, Alfia ",
      "EDITORIAL": "El Autor",
@@ -458,6 +736,19 @@
      "IMAGEN": "https:\/\/i.ibb.co\/zH548f0\/Burla-del-tiempo-Arredondo-Alfia.jpg",
      "BREVE": "Poemario",
      "TEMATICA": "1. Literatura Infantil 2. Argentina"
+    },
+    {
+     "TITULO": "Cabalgata de la fe a la Difunta Correa: Historia y tradición",
+     "AUTOR": "Montaño, Miguel A.- Rodriguez, Analía F.",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-97462--3-3",
+     "MEDIDAS": "21x15",
+     "PAG": 80,
+     "CODIGO": "394.5",
+     "IMAGEN": "https:\/\/i.ibb.co\/6HLbCbm\/Cabalgata-de-la-fe-a-la-difunta-correa-Historia-y-Tradici-n-Mo.jpg",
+     "BREVE": "Descripción de una expresión cultural que desde 1989 moviliza no solo a San Juan sino a varias provincias argentinas.",
+     "TEMATICA": "1 Tradiciones"
     },
     {
      "TITULO": "Carroza, velorio y casorio",
@@ -593,19 +884,6 @@
      "AUTOR": "Soler, Sergio",
      "EDITORIAL": "Jarilla",
      "IMPORTE": 1500,
-     "ISBN": "978-987-88-3030-8",
-     "MEDIDAS": "21x15",
-     "PAG": 124,
-     "CODIGO": "A863",
-     "IMAGEN": "https:\/\/i.ibb.co\/fYdpb3j\/Cat-logo-de-amores-desolados-Soler-Soler.jpg",
-     "BREVE": "Relatos breves.",
-     "TEMATICA": "1. Relatos"
-    },
-    {
-     "TITULO": "Catálogo de amores desolados",
-     "AUTOR": "Soler, Sergio",
-     "EDITORIAL": "Jarilla",
-     "IMPORTE": 500,
      "ISBN": "978-987-88-3030-8",
      "MEDIDAS": "21x15",
      "PAG": 124,
@@ -781,6 +1059,29 @@
      "TEMATICA": "1. Novela"
     },
     {
+     "TITULO": "Coherencia emocional: el camino de regreso a quienes somos ",
+     "AUTOR": "Malaisi, Lucas Javier J.",
+     "EDITORIAL": "Paidós",
+     "IMPORTE": 6100,
+     "ISBN": 9789501203530,
+     "IMAGEN": "https:\/\/i.ibb.co\/Kj9dmDR\/Coherencia-emocional-el-camino-de-regreso-a-quienes-somos-Mala.jpg",
+     "BREVE": "Brinda herramientas y conocimientos para que el ser humano pueda conectarse con su verdadera esencia, impregnada  de mandatos sociales, y pueda despertar.",
+     "TEMATICA": "1. Psicología"
+    },
+    {
+     "TITULO": "Cómo ayudar a los niños de hoy: Educación emocional",
+     "AUTOR": "Malaisi, Lucas Javier J.",
+     "EDITORIAL": "Educación Emocional Argentina",
+     "IMPORTE": 3800,
+     "ISBN": "978-987-26650-5-0",
+     "MEDIDAS": "21x14",
+     "PAG": 226,
+     "CODIGO": "371.1",
+     "IMAGEN": "https:\/\/i.ibb.co\/4PcxJjn\/Como-ayudar-a-los-ni-os-de-hoy-Malaisi-Lucas-J-J.jpg",
+     "BREVE": "En el presente libro se prevén conocimientos acerca de emociones, Inteligencia Emocional, Inteligencia Social e Inte-eligencia necesarias para que padres y docentes ayudemos mejor a los niños de hoy. ",
+     "TEMATICA": "1. Psicología. 2. Educación Emocional."
+    },
+    {
      "TITULO": "Cómo reconstruir un cuerpo",
      "AUTOR": "Arranz, Soledad",
      "EDITORIAL": "Abdulah",
@@ -844,6 +1145,56 @@
      "TEMATICA": "1.Conflicto de Clases 2. Economía 3. Sociología"
     },
     {
+     "TITULO": "Congreso Extraordinario de historia: homenaje a Domingo Faustino Sarmiento en el Bicentenario de su naciemiento (1811-2011) T I",
+     "AUTOR": "Ferrá de Bartol, Margarita",
+     "EDITORIAL": "Junta de Estudios Históricos de San Juan ",
+     "IMPORTE": 2000,
+     "ISBN": "978-987-26142-6-3",
+     "MEDIDAS": "25x17",
+     "PAG": 432,
+     "IMAGEN": "https:\/\/i.ibb.co\/KqqRKsk\/Congreso-extraordinario-de-historia-en-homenaje-a-Domingo-Faustino-Sarmiento-en-el-bicentenario-de-s.png",
+     "BREVE": "Disertaciones sobre distintos temas como Sarmiento y San Juan, Sarmiento y la geografía, educación desde la recuperación democrática, reflexiones para el bicentenario, la vocación jurídica de Sarmiento, Sarmiento, ejército y marina: Versiones de Sarmiento Bicentenario",
+     "TEMATICA": "Historia Argentina"
+    },
+    {
+     "TITULO": "Congreso Extraordinario de historia: homenaje a Domingo Faustino Sarmiento en el Bicentenario de su naciemiento (1811-2011) T II",
+     "AUTOR": "Ferrá de Bartol, Margarita",
+     "EDITORIAL": "Junta de Estudios Históricos de San Juan ",
+     "IMPORTE": 2000,
+     "ISBN": "978-987-26142-6-3",
+     "MEDIDAS": "25x17",
+     "PAG": 432,
+     "IMAGEN": "https:\/\/i.ibb.co\/ssR3Smj\/Congreso-extraordinario-de-historia-en-homenaje-a-Domingo-Faustino-Sarmiento-en-el-bicentenario-de-s.png",
+     "BREVE": "Formación de paneles, en los cuales se disertaron sobre distintos temas como Sarmiento y San Juan, Sarmiento y la geografía, educación desde la recuperación democrática, reflexiones para el bicentenario, la vocación jurídica de Sarmiento, Sarmiento, ejército y marina: Versiones de Sarmiento Bicentenario",
+     "TEMATICA": "Historia Argentina"
+    },
+    {
+     "TITULO": "Constitución Historia y Política: Ensayos en homenaje a: Pablo A. Ramella y Eduardo L. Leonardelli",
+     "AUTOR": "Tripolone, Gerardo (coord.)",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-97462-4-0",
+     "MEDIDAS": "23x15",
+     "PAG": 538,
+     "CODIGO": 320,
+     "IMAGEN": "https:\/\/i.ibb.co\/Vgv9DfR\/Constituci-n-Hist-rica-y-Pol-tica-Ensayos-en-homenaje-a-Pablo.jpg",
+     "BREVE": "El volumen que el lector tiene en sus manos constituye la mejor manera de rendir homenaje a dos personas que entregaron su vida a la docencia y a la cosa pública, sin descuidar ninguna de las dos facetas. ",
+     "TEMATICA": "1.Ciencia Política 2.Derecho. 3.Pensamiento  Político"
+    },
+    {
+     "TITULO": "Conversaciones con Insomnia",
+     "AUTOR": "Bondanza, Alejandra Inés",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-23135-3-1",
+     "MEDIDAS": "21x15",
+     "PAG": 58,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/chW5kMQ\/Conversaciones-con-insomnia.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "Poesía"
+    },
+    {
      "TITULO": "Coordenadas de una era Millennial",
      "AUTOR": "Avila, Luis",
      "EDITORIAL": "EFU",
@@ -880,6 +1231,32 @@
      "IMAGEN": "https:\/\/i.ibb.co\/WfqPPPS\/Cr-nicas-latinoamericanas-No-Salcedo-Eli.jpg",
      "BREVE": "Se trata de 23 breves crónicas históricas precolombinas.",
      "TEMATICA": "1.Relatos Históricos 2. América Latina 3. Relatos"
+    },
+    {
+     "TITULO": "Cuadernos Insensatos y algunos poemas",
+     "AUTOR": "Campillay, Adrián",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-9-9",
+     "MEDIDAS": "22x15",
+     "PAG": 110,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/L5nKBtB\/Cuadernos-Insensatos-y-algunos-poemas-Campillay-Adri-n.jpg",
+     "BREVE": "Cuadernos insensatos y algunos poemas, tal cual anuncia su título, se compone de dos partes bien diferenciadas. La primera (Cuadernos insensatos), se presenta como un relato, escrito en versos, pero también como un monólogo interior, casi una confesión; en donde el autor intenta compartir con el lector los detalles, los procedimientos, las íntimas razones y hasta los secretos, las miserias y las mentiras de su arte. ",
+     "TEMATICA": "1.Poesía "
+    },
+    {
+     "TITULO": "Cuarenta años Voces del último golpe de estado",
+     "AUTOR": "González, Mariana Beatriz",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-01-4",
+     "MEDIDAS": "21x15",
+     "PAG": 216,
+     "CODIGO": 320982,
+     "IMAGEN": "https:\/\/i.ibb.co\/tsW7fd5\/Cuarenta-a-os-Voces-del-ltimo-golpe-de-estado-en-San-Juan.jpg",
+     "BREVE": "La Cámara de Diputados de San Juan, que es y debe ser “voz de todos”, quiere ofrecer esta publicación como un testimonio vivo que contribuya a la Memoria y a la Verdad para que no renunciemos nunca a la búsqueda y construcción de la Justicia. ",
+     "TEMATICA": "1.Historia Argentina 2.Golpe de Estado de 1976. "
     },
     {
      "TITULO": "Cuarta Poesía Convergente   ",
@@ -920,6 +1297,19 @@
      "TEMATICA": "1.Narrativa Argentina 2.Cuentos"
     },
     {
+     "TITULO": "Cuentos cordilleranos Los pico cola emplumados",
+     "AUTOR": "Arce, Silvia Alejandra",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-8-2",
+     "MEDIDAS": "22x15",
+     "PAG": 86,
+     "CODIGO": "A863.9282",
+     "IMAGEN": "https:\/\/i.ibb.co\/56bk7Ym\/Los-pico-cola-emplumados-Arce-Silvia-Alejandra.jpg",
+     "BREVE": "El cuento cordillerano “Los Pico Cola emplumados” tiene sitio en la provincia de San Juan, más precisamente en el departamento Calingasta, llegando a “Las Hornillas”, pasando por la finca Caupolicán. Allí nace una fábula fantástica que busca entregar al lector las delicias de la imaginación, llevándolo a entender una hermosa moraleja. Este cuento infantil nos muestra que la nobleza de espíritu puede quebrantar al más poderoso de todos los males y salir airosa. Después de las batallas, por más duras que sean, los laureles coronarán no su cuerpo, sino su alma de gloria.",
+     "TEMATICA": "1.Literatura Argentina. 2. Aves. 3.San Juan "
+    },
+    {
      "TITULO": "Cuentos cuentan cuentos 3: Kilometro y medio de sueños y fantasmas",
      "AUTOR": "Artero López, Luis Alberto",
      "EDITORIAL": "Anclaje",
@@ -931,6 +1321,18 @@
      "IMAGEN": "https:\/\/i.ibb.co\/xgzXYLB\/Cuentos-cuentan-cuentos-3-Kilometro-y-medio-de-sue-os-y-fantas.jpg",
      "BREVE": "Definiciones poéticas ",
      "TEMATICA": "Cuentos"
+    },
+    {
+     "TITULO": "Cuerpear",
+     "AUTOR": "Martínez Fredes, Iván José ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-40-3",
+     "MEDIDAS": "21x15",
+     "PAG": 124,
+     "IMAGEN": "https:\/\/i.ibb.co\/9Z2F370\/Cuerpear-Mart-nez-Fredes-Iv-n-Jos.jpg",
+     "BREVE": "Cuento",
+     "TEMATICA": "1. Cuento 2. Narrativa Argentina"
     },
     {
      "TITULO": "De ciertas historias Sanjuaninas",
@@ -957,6 +1359,15 @@
      "TEMATICA": "1. Relato 2. Biografía"
     },
     {
+     "TITULO": "Deje aquí su trauma- Revista literaria 2022-",
+     "AUTOR": "Bondanza, Alejandra",
+     "EDITORIAL": "Sentipensares",
+     "IMPORTE": 600,
+     "IMAGEN": "https:\/\/i.ibb.co\/SxvDcM7\/Deje-aqu-su-trauma-Reviata.jpg",
+     "BREVE": "Deje aquí su trauma es el nombre que elegimos desde el taller de escritores adolescentes “Sentipensares”.Este libro reúne los textos producidos en nuestros encuentros y las ilustraciones de algunos de nosotros. No se asuste, querido lector, el material adolescente es altamente inflamable y sanamente lúdico.",
+     "TEMATICA": "Antología Literaria Juvenil- Arte adolescente"
+    },
+    {
      "TITULO": "Delirios de autor",
      "AUTOR": "Olmedo, Álvaro",
      "EDITORIAL": "Cámara de Diputados San Juan",
@@ -968,6 +1379,32 @@
      "IMAGEN": "https:\/\/i.ibb.co\/8bHnTQw\/Delirios-de-autor-Olmedo-Alvaro.jpg",
      "BREVE": "Poemario",
      "TEMATICA": "1 Poesía Argentina"
+    },
+    {
+     "TITULO": "Deolinda: una historia de amor y locura",
+     "AUTOR": "Zeghaib, Michel",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-26-7",
+     "MEDIDAS": "21x15",
+     "PAG": 82,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/KNZQf41\/Deolinda-una-historia-de-amor-y-locura.jpg",
+     "BREVE": "Narración sobre la historia de Deolinda.",
+     "TEMATICA": "Narrativa Argentina 2. Novela"
+    },
+    {
+     "TITULO": "Descubriendo mis emociones y habilidades: un libro para niños y padres. Educación emocional",
+     "AUTOR": "Malaisi, Lucas Javier J.",
+     "EDITORIAL": "Educacion Emocional Argentina",
+     "IMPORTE": 2800,
+     "ISBN": "978-987-26650-6-7",
+     "MEDIDAS": "27x19",
+     "PAG": 92,
+     "CODIGO": "370.15",
+     "IMAGEN": "https:\/\/i.ibb.co\/xhk3tvq\/Descubriendo-mis-Emociones-y-Habilidades-Malaisi-Lucas-Javie.jpg",
+     "BREVE": "Se trata de un texto interactivo y formativo, en el que el niño realiza su propia producción, dejando atrás lo meramente informativo. Para ayudar y educar a tus hijos o alumnos ya no nos desvela lo que les falta o lo que anda mal, porque para un crecimiento sólido es mejor hacer pie en bases firmes, y éstas son sus recursos, habilidades y emociones, en esta obra encontraras una forma eficaz de estar presente durante ese proceso.",
+     "TEMATICA": "Psicología. 2. Educación Emocional."
     },
     {
      "TITULO": "Desenredándonos",
@@ -1032,6 +1469,31 @@
      "IMAGEN": "https:\/\/i.ibb.co\/MPXnLGr\/Diccionario-la-futura-divina-materia-1-Artero-L-pez-Luis-Alber.jpg",
      "BREVE": "Trata de como el lenguaje disecciona la realidad y como organiza las cosas del mundo fijándolas en símbolos permanentes que sirven para la comunicación y para la organización del pensamiento.",
      "TEMATICA": "1. Narrativa Argentina"
+    },
+    {
+     "TITULO": "Difunta Correa ",
+     "AUTOR": "Ministerio de Turismo y Cultura",
+     "EDITORIAL": "Gobierno de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-25794-8-7",
+     "MEDIDAS": "27x22",
+     "PAG": 176,
+     "CODIGO": "398.41",
+     "IMAGEN": "https:\/\/i.ibb.co\/nQ6GZYX\/Difunta-Correa.jpg",
+     "BREVE": "Estudio sobre el mito de la Difunta Correa y sus alcances a nivel regional, nacional e internacional",
+     "TEMATICA": "1.Cultura Popular 2. Santuarios 3. Creencias"
+    },
+    {
+     "TITULO": "Digo tu nombre calingasta ",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-07-0",
+     "MEDIDAS": "21x15",
+     "PAG": 74,
+     "IMAGEN": "https:\/\/i.ibb.co\/K2dMRPc\/Digo-tu-nombre-Calingasta-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Poemas a Calingasta.",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
     },
     {
      "TITULO": "Dinámicas, Técnicas y juegos para trabajar en grupo: con estrategias y actividades probadas",
@@ -1175,6 +1637,18 @@
      "TEMATICA": "Ciencias Política "
     },
     {
+     "TITULO": "El corazón encendido",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-06-3",
+     "MEDIDAS": "21x15",
+     "PAG": 88,
+     "IMAGEN": "https:\/\/i.ibb.co\/xjyLmHB\/El-coraz-n-encendido-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
      "TITULO": "El Cristianismo en la historia: pasión por el hombre",
      "AUTOR": "García, José Juan",
      "EDITORIAL": "Fondo Editorial UCC",
@@ -1186,6 +1660,32 @@
      "IMAGEN": "https:\/\/i.ibb.co\/PG5kTqR\/El-Cristianismo-en-la-historia-Pasi-n-por-el-hombre-Garc-a-J.jpg",
      "BREVE": "Religión",
      "TEMATICA": "Historia de la iglesia"
+    },
+    {
+     "TITULO": "El cristo de la misericordia de Calingasta",
+     "AUTOR": "Mariel Erostarbe, Juan-Rodríguez, Fernando",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-33-5",
+     "MEDIDAS": "21x15",
+     "PAG": 116,
+     "CODIGO": 278,
+     "IMAGEN": "https:\/\/i.ibb.co\/9qL8C6V\/El-cristo-de-la-misericordia-de-Calingasta.jpg",
+     "BREVE": "Represente en forma tangible el mensaje bíblico. Un inmenso patrimonio de cultura y arte.",
+     "TEMATICA": "Religión 2. Cristo 3. Patrimonio"
+    },
+    {
+     "TITULO": "El Cruce. Tras los pasos de San Martín +CD-DVD",
+     "AUTOR": "Lima, Marcelo Jorge",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-00-7",
+     "MEDIDAS": "21x15",
+     "PAG": 284,
+     "CODIGO": "306.09",
+     "IMAGEN": "https:\/\/i.ibb.co\/0YrxHWD\/El-Cruce-tras-los-pasos-de-San-Mart-n.jpg",
+     "BREVE": "Este libro reúne las vivencias de los diez cruces realizados hasta el 2015 y que es ya parte de la memoria colectiva. Imágenes y palabras que transmiten emociones, experiencias y reflexiones de quienes a lo largo de diez cruces, fueron protagonistas de este nuevo relato histórico. En sus testimonios, trasunta el verdadero sentido de esta patriada, cual es reconocer la heroica Gesta de los Andes y el rol preponderante del pueblo sanjuanino en su realización.",
+     "TEMATICA": "1.Historia. 2. Geografía. 3. Paisaje Cultural"
     },
     {
      "TITULO": "El derecho a un ingreso: Texto y contexto de la asignación universal por hijo en Argentina",
@@ -1227,6 +1727,18 @@
      "TEMATICA": "Sociología"
     },
     {
+     "TITULO": "El desierto y sus silencios",
+     "AUTOR": "Silva Cantoni, Marcelo",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-64-9",
+     "MEDIDAS": "21x15",
+     "PAG": 92,
+     "CODIGO": 3010982,
+     "IMAGEN": "https:\/\/i.ibb.co\/9bGQqpW\/El-desierto-y-sus-silencios-Silva-Cantoni-Marcelo.jpg",
+     "TEMATICA": "1. Ensayo Sociológico. 2. Análisis del Discurso"
+    },
+    {
      "TITULO": "El diario de Leonard Flint : las aguas de Kerentelac",
      "AUTOR": "Karam, L.E.",
      "EDITORIAL": "Tinta de Luz",
@@ -1240,6 +1752,19 @@
      "TEMATICA": "Narrativa Argentina"
     },
     {
+     "TITULO": "El espectro de la Ausencia: cine Argentino de posdictadura como re-narración de la memoria colectiva ",
+     "AUTOR": "Grosman, Carla",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-66-3",
+     "MEDIDAS": "21x15",
+     "PAG": 166,
+     "CODIGO": 791430982,
+     "IMAGEN": "https:\/\/i.ibb.co\/p4nkysq\/El-espectro-de-la-ausencia-Grosman-Carlacopia.jpg",
+     "BREVE": "Esta obra se conecta epistemológica para destacar las relaciones discursivas existentes entre el modo ético-estético del cine argentino de la 1 ° década posdictatorial y los discursos en pugna en relato de la verdad del pasado dictatorial.",
+     "TEMATICA": "Cine Argentino"
+    },
+    {
      "TITULO": "El gran leñador",
      "AUTOR": "Barzola, Erica",
      "EDITORIAL": "JIN",
@@ -1248,7 +1773,22 @@
      "MEDIDAS": "21x14",
      "PAG": 8,
      "CODIGO": "A863.9282",
-     "IMAGEN": "https:\/\/i.ibb.co\/HCV5KNF\/El-gran-le-ador-Barzola-Erica.jpg"
+     "IMAGEN": "https:\/\/i.ibb.co\/HCV5KNF\/El-gran-le-ador-Barzola-Erica.jpg",
+     "BREVE": "Cuento",
+     "TEMATICA": "1. Cuento Infantil"
+    },
+    {
+     "TITULO": "El mágico libro de Zaha",
+     "AUTOR": "Araya, María Alejandra",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-16-8",
+     "MEDIDAS": "21x15",
+     "PAG": 62,
+     "CODIGO": 8639282,
+     "IMAGEN": "https:\/\/i.ibb.co\/PWJXxfB\/El-M-gico-Mundo-de-Zaha.jpg",
+     "BREVE": "Antología de cuentos. El Concurso San Juan Escribe nace como iniciativa de la Cámara de Diputados a fin de visibilizar a los autores noveles sanjuaninos y contribuir al quehacer literario local, a través de la edición de obras seleccionadas. Cuentos para niños.",
+     "TEMATICA": "1 Cuentos infantiles 2 Yacante Mercedes "
     },
     {
      "TITULO": "El nacedero: oficio de inmigrante. ",
@@ -1314,6 +1854,19 @@
      "TEMATICA": "1.Historietas 2. Novelas gráficas"
     },
     {
+     "TITULO": "El rol de la mujer en las comunidades originarias de 25 de Mayo- San Juan",
+     "AUTOR": "Morales, Bernardo y otros",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-31-1",
+     "MEDIDAS": "21x15",
+     "PAG": 212,
+     "CODIGO": "305.8",
+     "IMAGEN": "https:\/\/i.ibb.co\/sP8JPtF\/El-rol-de-la-mujer-en-las-comunidades-originarias-de-25-de-Mayo.jpg",
+     "BREVE": "Rol de la mujer en las comunidades originarias.",
+     "TEMATICA": "Mujeres 2. Cultura de los pueblos originarios"
+    },
+    {
      "TITULO": "El viaje de la Abeja Lola",
      "AUTOR": "Rodríguez, Iliana. ",
      "EDITORIAL": "Abdulah",
@@ -1351,6 +1904,45 @@
      "TEMATICA": "Historia"
     },
     {
+     "TITULO": "En nuestro tiempo sin tiempo",
+     "AUTOR": "Dominguez, Reyna María- Romera, Carlos",
+     "EDITORIAL": "El Momo",
+     "IMPORTE": 1200,
+     "ISBN": "978-987-45872-6-8",
+     "MEDIDAS": "21x14",
+     "PAG": 100,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/JpTLHc7\/En-nuestro-tiempo-sin-tiempo-Dom-nguez-Reyna-Romera-Carlos.jpg",
+     "BREVE": "Poemario.",
+     "TEMATICA": "Poesía Argentina"
+    },
+    {
+     "TITULO": "En San Juan por la huella Sanmartiniana",
+     "AUTOR": "Barrera, Edmundo Carlos ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-13-7",
+     "MEDIDAS": "21x15",
+     "PAG": 90,
+     "CODIGO": "910.4",
+     "IMAGEN": "https:\/\/i.ibb.co\/ft1kKs5\/En-San-Jun-por-la-huella-Sanmartiniana-Barrera-Edmundo-C.jpg",
+     "BREVE": "Relato del Cruce de los Andes.",
+     "TEMATICA": "1 Historia. 2. Libro de Historias de Viajes."
+    },
+    {
+     "TITULO": "Enfermería: Una historia para conocer",
+     "AUTOR": "Maldonado, Margarita Ana -recopiladora-",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-02-1",
+     "MEDIDAS": "21x15",
+     "PAG": 232,
+     "CODIGO": "610.73",
+     "IMAGEN": "https:\/\/i.ibb.co\/WBkzgmG\/Enfermer-a-Una-historia-para-conocer-Maldonado-Margarita-Ana.jpg",
+     "BREVE": "Recopilación de escritos referentes  a una etapa en la historia de la enfermería",
+     "TEMATICA": "1 Historia"
+    },
+    {
      "TITULO": "Entre matices: notas sobre literatura Argentina y Latinoamericana contemporáneas ",
      "AUTOR": "Simón, Gabriela (coord.)",
      "EDITORIAL": "UNSJ",
@@ -1362,6 +1954,31 @@
      "IMAGEN": "https:\/\/i.ibb.co\/HdLpQfc\/Entre-matices-notas-sobre-la-literatura-argentina-y-latinoamericana-contemporaneas-Simon-Gabriela.jpg",
      "BREVE": "Literatura y Análisis ",
      "TEMATICA": "Literatura Argentina y Latinoamericana"
+    },
+    {
+     "TITULO": "Envejecimiento y Sociedad",
+     "AUTOR": "Díaz, Myriam del Valle",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4585-2-0",
+     "MEDIDAS": "22x15",
+     "PAG": 248,
+     "CODIGO": 301,
+     "IMAGEN": "https:\/\/i.ibb.co\/hC9GyQ2\/Envejecimiento-y-Sociedad-Representaciones-sobre-vejez-e-inter.jpg",
+     "BREVE": "La Dra. Myriam del Valle Díaz focaliza su trabajo en el análisis del envejecimiento de la población en San Juan, Argentina, enfatizando tanto en su dimensión sociodemográfica como simbólica. “Envejecimiento y sociedad. Representaciones sobre vejez e intercambio intergeneracional. El caso de la provincia de San Juan” hace referencia a los factores objetivos que favorecen el incremento de la población mayor en la región, en el país y en la provincia; así como también los aspectos simbólicos referidos al ideario que existe en la sociedad sanjuanina sobre la vejez, y su vinculación con prácticas sociales destinadas a atender a los adultos mayores.",
+     "TEMATICA": "1. Análisis Sociológico. 2. Sociedad. 3.San Juan "
+    },
+    {
+     "TITULO": "Érase un paraíso",
+     "AUTOR": "Cáceres, Andrés",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-34-2",
+     "MEDIDAS": "21x15",
+     "PAG": 264,
+     "IMAGEN": "https:\/\/i.ibb.co\/xqn5TNK\/rase-un-para-so-C-ceres-Andr-s.jpg",
+     "BREVE": "Es una novela realista que narra la vida de Cayetano (Nito) Paredes.",
+     "TEMATICA": "Novela 2. Novelas Realistas"
     },
     {
      "TITULO": "Escritores de San Juan: antología",
@@ -1418,7 +2035,7 @@
      "TITULO": "Estado, sociedad y economía en la provincia de San Juan. Periodo 1950-1976.",
      "AUTOR": "De la Torre, Delia Inés",
      "EDITORIAL": "EFU",
-     "IMPORTE": "se vende juntos $3000",
+     "IMPORTE": 3000,
      "ISBN": "978-950-605-694-0",
      "MEDIDAS": "21x15",
      "PAG": 402,
@@ -1439,6 +2056,18 @@
      "IMAGEN": "https:\/\/i.ibb.co\/8c35bdB\/Estado-sociedad-y-econom-a-en-la-provincia-de-San-Juan-Periodo.png",
      "BREVE": "Estudio y análisis del proceso socioeconómico que vivió el país y la provincia, enmarcado entre los años 1975 y 1989, que modificó desde sus movimiento políticos e institucionales , las estructuras sociales y que preparó el advenimiento de neoliberalismo de los años 90",
      "TEMATICA": "1 Economía 2 Ciencia Política"
+    },
+    {
+     "TITULO": "Estas coplas de mujer",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-03-2",
+     "MEDIDAS": "21x15",
+     "PAG": 160,
+     "IMAGEN": "https:\/\/i.ibb.co\/Rycs9K2\/Estas-coplas-de-mujer-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Coplas",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
     },
     {
      "TITULO": "Estrategias de Aprendizaje del ingles como lengua esxtranjera",
@@ -1506,6 +2135,19 @@
      "TEMATICA": "1 Extension Universitaria 2 Social 3 Reforma"
     },
     {
+     "TITULO": "Fascinado por Malvinas",
+     "AUTOR": "Mendoza, Edgardo",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-25-0",
+     "MEDIDAS": "21x15",
+     "PAG": 114,
+     "CODIGO": 909,
+     "IMAGEN": "https:\/\/i.ibb.co\/7z6KSV2\/Fascinado-por-Malvinas.jpg",
+     "BREVE": "Es un amplio compendio documental, una suma de crónicas vitales e indispensables a través de los cuales se fragua el entramado mismo del reconocimiento francés sobre la pertenencia de las islas a España, su ulterior restitución a manos españolas y por ende sobre nuestros derechos sobre la misma.",
+     "TEMATICA": "Historia"
+    },
+    {
      "TITULO": "Ficcionario",
      "AUTOR": "Arona, Aníbal",
      "EDITORIAL": "Jarilla",
@@ -1517,6 +2159,18 @@
      "IMAGEN": "https:\/\/i.ibb.co\/RN8wd49\/Ficcionario-Arona-An-bal.jpg",
      "BREVE": "Cuentos breves",
      "TEMATICA": "1. Narrativa Argentina 2. Cuentos"
+    },
+    {
+     "TITULO": "Forma desde comienzos: gestación, forma y habitar humano",
+     "AUTOR": "Martínez Fredes, Iván José ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-39-7",
+     "MEDIDAS": "21x15",
+     "PAG": 279,
+     "CODIGO": "720.1",
+     "IMAGEN": "https:\/\/i.ibb.co\/tPGCXjW\/Forma-desde-comienzos-gestacion-forma-y-habitar-humano-Marti.jpg",
+     "BREVE": "Cuerpos desde la psicología, filosofía  y la Antropología. "
     },
     {
      "TITULO": "Formato pueblo. Nobles palmas",
@@ -1558,6 +2212,38 @@
      "TEMATICA": "1 Historia Argentina "
     },
     {
+     "TITULO": "Gibosa menguante",
+     "AUTOR": "Grosman, Carla",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-78-6",
+     "MEDIDAS": "21x15",
+     "PAG": 62,
+     "CODIGO": "A860",
+     "IMAGEN": "https:\/\/i.ibb.co\/LNRm7J6\/Gibosa-menguante-Grosman-Carla.jpg"
+    },
+    {
+     "TITULO": "Gómez Centurión",
+     "AUTOR": "Gómez Centurión",
+     "IMPORTE": 25000,
+     "ISBN": "978-987-867536-7",
+     "MEDIDAS": "31x25",
+     "IMAGEN": "https:\/\/i.ibb.co\/FWd0YNG\/Gomez-Centurion-Gomez-Centurion.jpg"
+    },
+    {
+     "TITULO": "Grietas Vivas",
+     "AUTOR": "Luna, Adriana",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-7-5",
+     "MEDIDAS": "22x15",
+     "PAG": 64,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/Yj71fwY\/grietas-Vivas-Luna-Adrian.jpg",
+     "BREVE": "Esta obra toma la imagen de una grieta en la pared y la vincula con posibles situaciones cotidianas, muchas veces, ocultas. La grieta es la herida que refleja un dolor con el que se convive, es una huella de lo que se quebró y el signo de vulnerabilidad evidente. Pero también una grieta es una invitación para atravesar la pared y mirar lo que se encuentra del otro lado. Lo inaccesible se vuelve cercano y la posibilidad de trascender está al alcance de la mirada. De esta manera, la pared y su grieta dejan de ser obstáculos que nos detienen para transformarse en paréntesis, en recreos. La grieta entonces, puede ser una oportunidad.",
+     "TEMATICA": "1.Poesía 2.Poesía Argentina"
+    },
+    {
      "TITULO": "Guía de un adolescente suicida",
      "AUTOR": "Noriega, Carla Micaela",
      "EDITORIAL": " Ivy Janet Noriega",
@@ -1569,6 +2255,19 @@
      "IMAGEN": "https:\/\/i.ibb.co\/VxP41Z7\/Guia-de-un-adolescente-suicida-Nogueras-Carla-Micaela.jpg",
      "BREVE": "Prevención a la comunidad en el tema drogas, basado en experiencias reales.",
      "TEMATICA": "1. Adolescencia 2. Adicciones 3.Prevención de Adicciones"
+    },
+    {
+     "TITULO": "Habitar el proyecto: formas contemporáneas de construir materialidad proyectual",
+     "AUTOR": "Martinez, Iván",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-77-9",
+     "MEDIDAS": "30x21",
+     "PAG": 222,
+     "CODIGO": "720.1",
+     "IMAGEN": "https:\/\/i.ibb.co\/Lp6ywL6\/Habitar-el-proyecto-formas-contempor-neas-de-construir-material.jpg",
+     "BREVE": "Estudio de los problemas proyectuales que atraviesan a la población y sus ciudades.",
+     "TEMATICA": "1. Arquitectura"
     },
     {
      "TITULO": "Haikus",
@@ -1713,6 +2412,32 @@
      "TEMATICA": "1. Narrativa Argentina"
     },
     {
+     "TITULO": "Hombres y mujeres de la patria: San Juan en tiempos de la independencia",
+     "AUTOR": "Fanchin, Ana y otros",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-05-2",
+     "MEDIDAS": "21x15",
+     "PAG": 208,
+     "CODIGO": 982,
+     "IMAGEN": "https:\/\/i.ibb.co\/cwx96GS\/Hombres-y-mujeres-de-la-patria-San-Juan-en-tiempos-de-la-indep.jpg",
+     "BREVE": "Historias de quienes, hombres y mujeres, contribuyeron a nuestra independencia",
+     "TEMATICA": "Historia"
+    },
+    {
+     "TITULO": "Impoético",
+     "AUTOR": "Olmedo, Álvaro",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-10-6",
+     "MEDIDAS": "21x15",
+     "PAG": 84,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/0fWYgQP\/Impo-tico-Olmedo-lvaro.jpg",
+     "BREVE": "Relato",
+     "TEMATICA": "1 Poesía argentina"
+    },
+    {
      "TITULO": "Incumbencias de la Educación en el trabajo y la economía",
      "AUTOR": "Larrea Arnau, Claudio Marcelo",
      "EDITORIAL": "Fondo Editorial UCC",
@@ -1734,7 +2459,20 @@
      "MEDIDAS": "21x14",
      "PAG": 92,
      "CODIGO": 8139283,
-     "IMAGEN": "https:\/\/i.ibb.co\/vJgHWcL\/Infierno-grande-Ivy-Janet-Nogueras.jpg"
+     "IMAGEN": "https:\/\/i.ibb.co\/vJgHWcL\/Infierno-grande-Ivy-Janet-Nogueras.jpg",
+     "BREVE": "Es un recorrido por las historias más sorprendentes de que se pueden escuchar de una ciudad pequeña. ",
+     "TEMATICA": "1. Cuentos 2. Literatura Juvenil 3.Narrativa Estadounidense"
+    },
+    {
+     "TITULO": "Informe Baker",
+     "AUTOR": "Botti, Dana",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-76-2",
+     "MEDIDAS": "21x15",
+     "PAG": 50,
+     "CODIGO": "A862",
+     "IMAGEN": "https:\/\/i.ibb.co\/ncP0NJn\/Informe-Baker-Botti-Dana.jpg"
     },
     {
      "TITULO": "José de San Martín y Domingo Faustino Sarmiento",
@@ -1763,12 +2501,6 @@
      "TEMATICA": "Obra artística. Crónica de una ciudad en imágenes"
     },
     {
-     "TITULO": "Kit: libreta+señalador+sticker",
-     "AUTOR": "Hernández, Mafalda",
-     "IMPORTE": 800,
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
-    },
-    {
      "TITULO": "La actividad musical en el instituto superior de artes en San Juan: proyección artistica y educativa 1960-1965",
      "AUTOR": "Porras, Graciela",
      "EDITORIAL": "UNSJ",
@@ -1780,6 +2512,25 @@
      "IMAGEN": "https:\/\/i.ibb.co\/8BHWMJg\/La-Actividad-Musical-en-el-Instituto-Superior-de-Artes-de-San-J.png",
      "BREVE": "La historia del ISA que posibilito el desarrollo artístico-educativo  en nuestra provincia.",
      "TEMATICA": "Historia ISA "
+    },
+    {
+     "TITULO": "La ascensión",
+     "AUTOR": "Fontana, Adriana María. ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-65-6",
+     "MEDIDAS": "21x15",
+     "PAG": 76,
+     "CODIGO": "A863.9282",
+     "IMAGEN": "https:\/\/i.ibb.co\/0GTZqYq\/La-ascensi-n-Fontana-Adriana-Mar-a.jpg",
+     "BREVE": "Distintas miradas y formas de expresar subyacen en esta edición lo que llevaran al lector diferentes maneras de adentrarse en ellas.",
+     "TEMATICA": "1. Novelas 2. Literatura Infantil 3. Narrativa Infantil"
+    },
+    {
+     "TITULO": "La capilla de Catalve",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "IMAGEN": "https:\/\/i.ibb.co\/SQQyC8W\/La-capilla-de-Catalve-none.jpg"
     },
     {
      "TITULO": "La celda de San Martín",
@@ -1840,7 +2591,9 @@
      "MEDIDAS": "21x14",
      "PAG": 8,
      "CODIGO": "A863.9282",
-     "IMAGEN": "https:\/\/i.ibb.co\/dKf3dDS\/La-gran-jugueteria-Barzola-Erica.jpg"
+     "IMAGEN": "https:\/\/i.ibb.co\/dKf3dDS\/La-gran-jugueteria-Barzola-Erica.jpg",
+     "BREVE": "cuentos infantiles",
+     "TEMATICA": "1. Libros para niños 2.Cuentos clásicos infantiles  3. Valores"
     },
     {
      "TITULO": "La historia del rock en San Juan",
@@ -1895,6 +2648,19 @@
      "TEMATICA": "Poesía Argentina"
     },
     {
+     "TITULO": "La minería en San Juan en los albores de la Patria",
+     "AUTOR": "Fracapani Ríos, Eliana",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-3-7",
+     "MEDIDAS": "22x15",
+     "PAG": 82,
+     "CODIGO": 622,
+     "IMAGEN": "https:\/\/i.ibb.co\/GpXrnBT\/La-Mineria-en-San-Juan-en-los-albores-de-la-Patria-Fracapani-R.jpg",
+     "BREVE": "La minería en San Juan en los albores de la Patria es el resultado de un trabajo de investigación que se centra en el estudio de la actividad minera en dicha provincia cuyana, a fines del periodo colonial y en los primeros años de la Independencia. Si bien la minería constituyó uno de los principales alicientes que movilizaron el avance colonizador, la historia local había aseverado que la misma fue prácticamente inexistente y recién valorizada a partir de la gestión de Domingo Faustino Sarmiento como gobernador.",
+     "TEMATICA": "1.Minería 2.Historia.3.San Juan"
+    },
+    {
      "TITULO": "La mirada del desvelo ",
      "AUTOR": "Cassino, Silvana",
      "EDITORIAL": "Abdulah",
@@ -1945,6 +2711,56 @@
      "IMAGEN": "https:\/\/i.ibb.co\/Xb424kW\/La-organizaci-n-Rodriguez-Matias-German.jpg",
      "BREVE": "Novela de Acción",
      "TEMATICA": "1. Narrativa Argentina 2. Novelas de Acción"
+    },
+    {
+     "TITULO": "La palabra nada",
+     "AUTOR": "Drajer, Eliana",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-21-2",
+     "MEDIDAS": "21x15",
+     "PAG": 68,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/yY51KPp\/La-palabra-nada.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "Poesía"
+    },
+    {
+     "TITULO": "La parabellum del mono",
+     "AUTOR": "Navas Balaguer, Miguel",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-74-8",
+     "MEDIDAS": "12x16",
+     "PAG": 96,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/d0pBp4D\/La-parabellum-del-Mono-Navas-Balaguer-Miguel.jpg"
+    },
+    {
+     "TITULO": "La policía de la Provincia de San Juan en el periodo 1880-1890. ",
+     "AUTOR": "Zalazar, José Manuel",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-58-8",
+     "MEDIDAS": "21x15",
+     "PAG": 190,
+     "CODIGO": "306.28",
+     "IMAGEN": "https:\/\/i.ibb.co\/hdPvJy9\/La-policia-de-la-Provincia-de-San-Juan-en-Zalazar-Jos-Manuel.jpg",
+     "BREVE": "La historia de la policía de San Juan, en el periodo 1880-1890, nos propone introducirnos en la temática, sin obviar el prisma político, económico y social de la Argentina en esa época.",
+     "TEMATICA": "1. Policía 2. Historia"
+    },
+    {
+     "TITULO": "La quebrada rugiente: historia del autódromo el Zonda Eduardo Copello",
+     "AUTOR": "Salimas Molina, Yamila",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-18-2",
+     "MEDIDAS": "21x15",
+     "PAG": 168,
+     "CODIGO": "796.72",
+     "IMAGEN": "https:\/\/i.ibb.co\/8DMLgRf\/La-quebrada-Rugiente.jpg",
+     "BREVE": "Historia del Autódromo de Zonda",
+     "TEMATICA": "1 Automovilismo Deportivo"
     },
     {
      "TITULO": "La redención del Samurái",
@@ -2009,6 +2825,18 @@
      "IMAGEN": "https:\/\/i.ibb.co\/wpwTSVG\/La-universidad-publica-en-el-territorio-busqueda-y-aportes-desde-experiencias-de-educacion-popular-e.jpg",
      "BREVE": "Relato de experiencia de investigación-acción, pone la mirada en ese contexto, para entenderlo como “compromiso social universitario”.",
      "TEMATICA": "1.Universidad 2. Educación Popular."
+    },
+    {
+     "TITULO": "Lagar de mi sangre",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-05-6",
+     "MEDIDAS": "21x15",
+     "PAG": 98,
+     "IMAGEN": "https:\/\/i.ibb.co\/Syzy96G\/Lagar-de-mi-sangre-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Poemas dedicados a su madre.",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
     },
     {
      "TITULO": "Lágrimas de tinta- Poesía-",
@@ -2126,6 +2954,18 @@
      "TEMATICA": "1. Narrativa Argentina 2.Cuentos"
     },
     {
+     "TITULO": "Lecho de tierra",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-02-5",
+     "MEDIDAS": "21x15",
+     "PAG": 130,
+     "IMAGEN": "https:\/\/i.ibb.co\/RbzBfk9\/Lecho-de-Tierra-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Poemas a su tierra",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
      "TITULO": "Lectoras, escritoras, trabajadoras, referentes, artistas Sanjuaninas",
      "AUTOR": "Noriega, Ivy Janet",
      "EDITORIAL": " Ivy Janet Noriega",
@@ -2151,6 +2991,29 @@
      "TEMATICA": "1. Poemas"
     },
     {
+     "TITULO": "Llamada entrante",
+     "AUTOR": "Malnis, Cecilia Magdalena",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-60-1",
+     "MEDIDAS": "21x15",
+     "PAG": 62,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/ZK04SLC\/Llamada-entrante-Malnis-Cecilia-Magdalena.jpg"
+    },
+    {
+     "TITULO": "Llegando al camino",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-01-8",
+     "MEDIDAS": "21x15",
+     "PAG": 108,
+     "IMAGEN": "https:\/\/i.ibb.co\/zSJ57kz\/Llegando-al-camino-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Poemario dedicado a sus padres.",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
      "TITULO": "Lop-Lop Cuento Indígena",
      "AUTOR": "Rodríguez, Viviana",
      "EDITORIAL": "Ediciones De la Estación",
@@ -2164,6 +3027,19 @@
      "TEMATICA": "Narrativa Argentina 2. Cuentos"
     },
     {
+     "TITULO": "Los bebes lloran en los viajes ",
+     "AUTOR": "Eguaburo, Inés",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-61-8",
+     "MEDIDAS": "21x15",
+     "PAG": 58,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/Vpy64cq\/Los-bebes-lloran-en-los-viajes-Eguaburo-Ines.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1.Poesia Argentina"
+    },
+    {
      "TITULO": "Los brazos de mamá",
      "AUTOR": "Barzola, Erica",
      "EDITORIAL": "JIN",
@@ -2171,7 +3047,7 @@
      "ISBN": "978-987-86-8760-5",
      "MEDIDAS": "21x14",
      "CODIGO": 808899282,
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "IMAGEN": "https:\/\/i.ibb.co\/sPRmbdG\/Los-brazos-de-mama-Barzola-Erica.jpg"
     },
     {
      "TITULO": "Los héroes olvidados de la cuesta de Chacabuco",
@@ -2187,17 +3063,29 @@
      "TEMATICA": "Historia Argentina 2. Historia Militar"
     },
     {
-     "TITULO": "Los poemas de Merlin, mientras otras palabras",
-     "AUTOR": "Sosa, Walter Oscar",
-     "EDITORIAL": "Jarilla",
-     "IMPORTE": 1500,
-     "ISBN": "978-987-86-4302-1",
+     "TITULO": "Los juegos del jefe",
+     "AUTOR": "Ávila, Luis",
+     "EDITORIAL": "Planeta",
+     "IMPORTE": 3000,
+     "ISBN": "978-950-49-6567-1",
+     "MEDIDAS": "23x15",
+     "PAG": 464,
+     "CODIGO": "A863.9283",
+     "IMAGEN": "https:\/\/i.ibb.co\/SRyr7MN\/Los-juegos-del-jefe-vila-Luis.jpg",
+     "BREVE": "Nat es estudiante de medicina y ha iniciado sus residencias en el Hospital de Yorkshire. Sin embargo, tiene un secreto que nadie conoce: es una&nbsp;hacker&nbsp;fascinada con descubrir la privacidad de las personas. Este aspecto suyo la hará tomar venganza de su insoportable jefe: Nick Jefferson. Quizá no debería acercarse demasiado a él. Quizá debiera seguir las advertencias. Quizá... descubra secretos que pongan su vida en peligro. Y es que Nick lleva una vida empresarial que nadie conoce: ha montado una industria clandestina... Es un magnate en el negocio de la pornografía. ¿Nat podrá llevar a cabo su plan? ¿Hasta dónde sería capaz de llegar en la vida de Nick?",
+     "TEMATICA": "Novela erótica"
+    },
+    {
+     "TITULO": "Los niños rotos",
+     "AUTOR": "Rodríguez Briz, Fernanda ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-41-0",
      "MEDIDAS": "21x15",
-     "PAG": 60,
-     "CODIGO": "A861",
-     "IMAGEN": "https:\/\/i.ibb.co\/CQnPD3w\/Los-Poemas-Por-Merl-n-mientras-otras-palab-Sosa-Walter-Oscar.jpg",
-     "BREVE": "poemario intensamente humano",
-     "TEMATICA": "Poesía Argentina"
+     "PAG": 113,
+     "IMAGEN": "https:\/\/i.ibb.co\/jzdgPMm\/Los-ni-os-rotos-Rodr-guez-Briz-Fernanda.jpg",
+     "BREVE": "Cuentos y Narrativa",
+     "TEMATICA": "1. Cuentos  2.Narrativa Argentina"
     },
     {
      "TITULO": "Los propietarios de la vida -Poemas-",
@@ -2211,6 +3099,32 @@
      "IMAGEN": "https:\/\/i.ibb.co\/QPPjKrK\/Los-propietarios-de-la-vida-poemas-Noe-Salcedo-Elio.jpg",
      "BREVE": "Poemario",
      "TEMATICA": "1.Poesía Argentina"
+    },
+    {
+     "TITULO": "Luces y sombras",
+     "AUTOR": "Bastiani, Edgardo",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-22-9",
+     "MEDIDAS": "21x15",
+     "PAG": 74,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/5sn3krf\/Luces-y-sombras.jpg",
+     "BREVE": "Cuentos Breves",
+     "TEMATICA": "Cuentos"
+    },
+    {
+     "TITULO": "Lunas y territorios",
+     "AUTOR": "Casas, José",
+     "EDITORIAL": "El Momo",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-45872-8-2",
+     "MEDIDAS": "21x15",
+     "PAG": 78,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/wSLZY0B\/Lunas-y-territorios-Casas-Jos.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1. Poesía Argentina"
     },
     {
      "TITULO": "Malvinas prohibido olvidar historias ocultas del 82",
@@ -2275,6 +3189,19 @@
      "TEMATICA": "1.Narrativa Argentina 2.Novela histórica "
     },
     {
+     "TITULO": "Mapa de riesgo sísmico en el departamento Capital San Juan Argentina",
+     "AUTOR": "Narvaez, Luciana Maricel",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-75-5",
+     "MEDIDAS": "30x21",
+     "PAG": 74,
+     "CODIGO": "918.2",
+     "IMAGEN": "https:\/\/i.ibb.co\/KLFQJmN\/Mapa-de-riesgo-s-smico-en-el-departamento-Capital-San-Juan-Arge.jpg",
+     "BREVE": "Estudio sobre planificación estratégica y ordenamiento territorial para establecer zonas de riesgos físicos en áreas de vulnerabilidad en San Juan.",
+     "TEMATICA": "1. Geografía y sismología "
+    },
+    {
      "TITULO": "Marchas e himnos patrióticos",
      "AUTOR": "Blanco, Patricia",
      "EDITORIAL": "effha",
@@ -2286,6 +3213,19 @@
      "IMAGEN": "https:\/\/i.ibb.co\/DQWgG23\/Marchas-e-himnos-patri-ticos-Patricia-Blanco.png",
      "BREVE": "El presente trabajo propone una versión para canto y piano del Himno a Domingo Faustino Sarmiento y arreglos para canto y piano del Himno Nacional Argentino; marcha Mi Bandera y Aurora-Canción a la Bandera. El objetivo es facilitar el abordaje por parte de los alumnos para optimizar su interpretación y enseñanza.",
      "TEMATICA": "Enseñanza de la Música"
+    },
+    {
+     "TITULO": "Más allá del arco iris ",
+     "AUTOR": "Falcón, Nicolás Santiago",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-12-0",
+     "MEDIDAS": "21x15",
+     "PAG": 192,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/4dT3Hdm\/Mas-all-del-Arco-Iris.jpg",
+     "BREVE": "Relato",
+     "TEMATICA": "1 Relatos Personales"
     },
     {
      "TITULO": "Matar al presidente",
@@ -2360,7 +3300,20 @@
      "MEDIDAS": "21x14",
      "PAG": 8,
      "CODIGO": "A808.899282",
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "IMAGEN": "https:\/\/i.ibb.co\/9yvpgVb\/Mi-esqueleto-Bob-Barzola-Erica.jpg"
+    },
+    {
+     "TITULO": "Mi perro huele a galletitas recién horneadas",
+     "AUTOR": "Nebro, María Gabriela ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-6-8",
+     "MEDIDAS": "22x15",
+     "PAG": 54,
+     "CODIGO": "A863.9282",
+     "IMAGEN": "https:\/\/i.ibb.co\/BwMpfX8\/Mi-perro-huele-a-galletitas-recien-horneadas-Nebro-M.jpg",
+     "BREVE": "Destinado a un público infanto-juvenil, “Mi perro huele a galletas recién horneadas” propone una revisión crítica de ciertos estereotipos provenientes de la literatura infantil tradicional. ",
+     "TEMATICA": "1.Literatura infantil"
     },
     {
      "TITULO": "Mi superhéroe comenzó a sonreír",
@@ -2397,7 +3350,9 @@
      "MEDIDAS": "20x14",
      "PAG": 108,
      "CODIGO": "372.21",
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "IMAGEN": "https:\/\/i.ibb.co\/NrSkTvw\/Mis-experiencias-docentes-1-Almonacid-Mariana.jpg",
+     "BREVE": "Planificaciones  a través de secuencias didácticas con sencillez y claridad para docentes.",
+     "TEMATICA": "1. Didáctica 2.Efemérides 3. Inclusión "
     },
     {
      "TITULO": "Mis experiencias docentes 2",
@@ -2408,7 +3363,9 @@
      "MEDIDAS": "20x15",
      "PAG": 94,
      "CODIGO": "372.21",
-     "IMAGEN": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/No_Image_Available.jpg?20200913095930"
+     "IMAGEN": "https:\/\/i.ibb.co\/NrSkTvw\/Mis-experiencias-docentes-1-Almonacid-Mariana.jpg",
+     "BREVE": "Planificaciones  a través de secuencias didácticas con sencillez y claridad para docentes.",
+     "TEMATICA": "1. Didáctica 2.Efemérides 3. Inclusión "
     },
     {
      "TITULO": "Mis obras",
@@ -2432,6 +3389,30 @@
      "IMAGEN": "https:\/\/i.ibb.co\/XZLSxGz\/miscel-neas-sanjuaninas.jpg",
      "BREVE": "Poemas, efemérides, fábulas y narraciones ",
      "TEMATICA": "Poemas, efemérides, fábulas y narraciones "
+    },
+    {
+     "TITULO": "Mitos Entramados",
+     "AUTOR": "Aguiar, María Rosa",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-37-3",
+     "MEDIDAS": "30x21",
+     "PAG": 122,
+     "CODIGO": "305.42",
+     "IMAGEN": "https:\/\/i.ibb.co\/TLx5gMj\/Mitos-Entramados-Aguiar-Maria-del-Rosario.jpg"
+    },
+    {
+     "TITULO": "Modo Creativo. Educación emocional de jóvenes y adultos",
+     "AUTOR": "Malaisi, Lucas Javier J.",
+     "EDITORIAL": "Paidós",
+     "IMPORTE": 5500,
+     "ISBN": "978-950-12-9852-9",
+     "MEDIDAS": "23x15",
+     "PAG": 296,
+     "CODIGO": 370.118,
+     "IMAGEN": "https:\/\/i.ibb.co\/4JxCLhN\/Modo-Creativo-Educaci-n-emocional-del-adulto-Malaisi-Lucas-Ja.png",
+     "BREVE": "En esta obra encontrarás explicaciones y su interrelación con las creencias, para aprender a generar y mantener los momentos de seguridad, motivación y disfrute (lo que el autor llama Modo Creativo). Se incluye además una serie de ejercicios destinados a aquellos que quieran profundizar en su autoconocimiento para lograr un cambio personal, educativo y empresarial.",
+     "TEMATICA": "1. Psicología. "
     },
     {
      "TITULO": "Muchacha y otros relatos musicales",
@@ -2496,5 +3477,915 @@
      "IMAGEN": "https:\/\/i.ibb.co\/BghzVSF\/Narraciones-del-Taller-El-Taller-narrado.jpg",
      "BREVE": "Narraciones breves",
      "TEMATICA": "Narrativa Argentina"
+    },
+    {
+     "TITULO": "No te duermas, historias que asustan al miedo",
+     "AUTOR": "Noriega, Ivy Janet",
+     "EDITORIAL": " Ivy Janet Noriega",
+     "IMPORTE": 1100,
+     "ISBN": "978-987-86-0003-1",
+     "MEDIDAS": "20x14",
+     "PAG": 64,
+     "IMAGEN": "https:\/\/i.ibb.co\/b6L1x84\/No-te-duermas-Nogueras-Janet-Ivy.jpg",
+     "BREVE": "Relatos que viajan a través del tiempo.",
+     "TEMATICA": "1. Relatos 2. Historias de miedo"
+    },
+    {
+     "TITULO": "Nosotros, los Dinosaurios ",
+     "AUTOR": "Monetta, Alfredo",
+     "EDITORIAL": "EFU",
+     "IMPORTE": 500,
+     "ISBN": "950-605-109-7",
+     "MEDIDAS": "21x15",
+     "PAG": 30,
+     "IMAGEN": "https:\/\/i.ibb.co\/dQw5trD\/Nosotros-los-dinosaurios-Monetta-Alfredo.png",
+     "BREVE": "Obra didáctica destinada al público en general cuya consigna se relaciona con los conocimientos de los dinosaurios: caracteres físicos, aparición, duración en historia, causas de su desaparición, etc.",
+     "TEMATICA": "Ciencias Naturales"
+    },
+    {
+     "TITULO": "Ofelia Zúccoli tinto de finanza",
+     "AUTOR": "Mariel Erostarbe, Juan",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-10-0",
+     "MEDIDAS": "21x15",
+     "PAG": 146,
+     "CODIGO": "A860",
+     "IMAGEN": "https:\/\/i.ibb.co\/NjMcB5Q\/Ofelia-Zuccoli-Tinto-de-Fidanza-Derroteros-esteticos-misticos.jpg",
+     "BREVE": "Homenaje, entre otros, de personalidades como León Benarós a la obra de Ofelia.  ",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
+     "TITULO": "Ojos que brillan: selección de personal",
+     "AUTOR": "López Cuenca, Romina",
+     "EDITORIAL": "Fondo Editorial UCC",
+     "IMPORTE": 2400,
+     "ISBN": "978-987-3971-63-1",
+     "MEDIDAS": "21x16",
+     "PAG": 144,
+     "CODIGO": "158.7",
+     "IMAGEN": "https:\/\/i.ibb.co\/1dK9Jws\/Ojos-que-brillan-Selecci-n-de-personal-L-pez-Cuenca-Romina.jpg",
+     "BREVE": "Fortalecimiento de la formación del personal ",
+     "TEMATICA": "Psicología"
+    },
+    {
+     "TITULO": "Oro y plata en la historia minera de San Juan",
+     "AUTOR": "Benavídez de Alvardiaz, Mabel",
+     "EDITORIAL": "EFU",
+     "IMPORTE": 2900,
+     "ISBN": "978-987-3984-22-8",
+     "MEDIDAS": "23x16",
+     "PAG": 318,
+     "CODIGO": 622,
+     "IMAGEN": "https:\/\/i.ibb.co\/GFg01M2\/Oro-y-plata-en-la-historia-minera-de-San-Juan-Benav-dez-de-Alb.jpg",
+     "BREVE": "Investigación historiográfica del pasado minero provincial que abarca tres siglos.",
+     "TEMATICA": "Minería"
+    },
+    {
+     "TITULO": "Padrón de Habitantes de la Ciudad de San Juan de la Frontera y su jurisdicción, Corregimiento de Cuyo, Capitanía General de  Chile año 1777",
+     "AUTOR": "Arancibia, Juan José",
+     "EDITORIAL": "EFU",
+     "IMPORTE": 3000,
+     "ISBN": "978-987-8395-10-4",
+     "MEDIDAS": "23x16",
+     "CODIGO": 244,
+     "IMAGEN": "https:\/\/i.ibb.co\/x86TTJk\/Padr-n-de-Habitantes-de-la-Ciudad-de-San-Juan-de-la-Frontera-y.jpg",
+     "BREVE": "El empadronamiento era parte de un mecanismo para aumentar la capacidad de control que España necesitaba para sacar mayor provecho a las posesiones americanas, asegurar su defensa y mejorar su administración. ",
+     "TEMATICA": "Historia Argentina 2. América Colonial"
+    },
+    {
+     "TITULO": "Pajaros cautivos de Taormina",
+     "AUTOR": "Vacchelli, Gabriel Gustavo ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-38-0",
+     "MEDIDAS": "21x15",
+     "PAG": 199,
+     "IMAGEN": "https:\/\/i.ibb.co\/8X5ts97\/Pajaros-cautivos-de-Taormina-Vacchelli-Gabriel-Gustavo.jpg",
+     "BREVE": "La Novela, transcurre en Italia en el siglo XX, en un ámbito religioso que batalla constantemente con lo tabú y las pasiones de la voz narradora. Transcurre de manera pendular entre la ingenuidad y la perversión, haciendo cómplice al lector de las atrocidades que va cometiendo su protagonista, detallando a su vez con giros en el tiempo, anécdotas de su vida que pueden llegar a entender que tiene que ver lo que actualmente está sucediendo con lo que predispuso o desencadenó ciertas locuras que van llevando a cabo.",
+     "TEMATICA": "Novela 2.Narrativa Argentina"
+    },
+    {
+     "TITULO": "Palabras para los ciegos de corazón ",
+     "AUTOR": "Temiño, Rouland David",
+     "EDITORIAL": "Abdulah",
+     "IMPORTE": 700,
+     "ISBN": "978-987-48875-2-8",
+     "MEDIDAS": "20x14",
+     "PAG": 140,
+     "CODIGO": "306.0982",
+     "IMAGEN": "https:\/\/i.ibb.co\/7SgcNg2\/Palabras-para-los-ciegos-de-corazon-Temi-o-Rouland-David.jpg",
+     "BREVE": "Pensamientos que afloran y transmite el autor  desde el corazón.",
+     "TEMATICA": "Pensamiento Nacional"
+    },
+    {
+     "TITULO": "Pancho Villa y su luz",
+     "AUTOR": "Artero López, Luis Alberto",
+     "EDITORIAL": "Anclaje",
+     "IMPORTE": 2000,
+     "ISBN": "978-987-29179-2-0",
+     "MEDIDAS": "21x15",
+     "PAG": 138,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/Fnx53gf\/Pancho-Villa-y-su-luz.jpg",
+     "BREVE": "Novela sobre la vida de Pancho Villa",
+     "TEMATICA": "Narrativa"
+    },
+    {
+     "TITULO": "Pareidolia",
+     "AUTOR": "Muñoz Galdeano, Matías Federico",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-24-3",
+     "MEDIDAS": "21x15",
+     "PAG": 136,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/0sjrw1x\/Pareidolia.jpg",
+     "BREVE": "Una serie de historias oscuras y profundas. Se siente como una visita a la mente de una persona, descripta en todo su caos, que beneficia a las relecturas.",
+     "TEMATICA": "Relatos 2. Cuentos"
+    },
+    {
+     "TITULO": "Participación Ciudadana desde el vecinalismo en el municipio de la Ciudad de San Juan",
+     "AUTOR": "Rossomando Genest, Gabriela",
+     "EDITORIAL": "Editorial UNSJ",
+     "IMPORTE": 2500,
+     "ISBN": "978-987-8395-09-8",
+     "MEDIDAS": "22x16",
+     "PAG": 264,
+     "IMAGEN": "https:\/\/i.ibb.co\/bbkrgkh\/Participaci-n-Ciudadana-desde-el-vecinalismo-en-el-Municipio-de-la-Ciudad-de-San-Juan-Rossomando-Gen.jpg",
+     "BREVE": "Incidencia de la participación ciudadana como protagonista hacedor de decisiones y elaboraciones de políticas públicas y consecuencias de la no implementación de dicha participación en los procesos democráticos ",
+     "TEMATICA": "!. Invetigacion 2. Politicas Publicas"
+    },
+    {
+     "TITULO": "Pasión de la Viña",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-08-7",
+     "MEDIDAS": "21x15",
+     "PAG": 104,
+     "IMAGEN": "https:\/\/i.ibb.co\/d297FxQ\/Pasion-de-la-vi-a-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Coplas, silvas y sonetos",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
+     "TITULO": "Patrones de aprendizaje y evaluación de la calidad educativa",
+     "AUTOR": "Arancibia, Miriam Dolly [et.al]",
+     "EDITORIAL": "EFU",
+     "IMPORTE": 2500,
+     "ISBN": "978-987-8395-03-6",
+     "MEDIDAS": "22x16",
+     "PAG": 318,
+     "IMAGEN": "https:\/\/i.ibb.co\/LRhd79k\/Patrones-de-aprendizaje-y-evaluaci-n-de-la-calidad-educativa-Ar.jpg",
+     "BREVE": "Propuesta sobre patrones de aprendizaje para contrarrestar la ausencia y\/o baja enseñanza en comprensión lectora.",
+     "TEMATICA": "1.Aprendizaje 2. Enseñanza"
+    },
+    {
+     "TITULO": "Paula Albarracin de Sarmiento",
+     "AUTOR": "Guerrero, Cesar H.",
+     "EDITORIAL": "El Autor",
+     "IMPORTE": 2500,
+     "MEDIDAS": "20x14",
+     "PAG": 106,
+     "IMAGEN": "https:\/\/i.ibb.co\/5YHJXxX\/Paula-Albarracin-de-Sarmiento-Guerrero-C-sar-H.png",
+     "BREVE": "En esta obra se trata de homenajear a su abnegada madre dejando escrito un buen recuerdo, para conocimiento y ejemplo que deben tomar las nuevas generaciones, de lo que fue y representa aquella noble mujer en su vida laboriosa.",
+     "TEMATICA": "Biografía"
+    },
+    {
+     "TITULO": "Pensamientos palabras poemas",
+     "AUTOR": "Temiño, Rouland David",
+     "EDITORIAL": "Abdulah",
+     "IMPORTE": 700,
+     "ISBN": "978-987-42-9518-7",
+     "MEDIDAS": "20x14",
+     "PAG": 72,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/hs2Y9fD\/Pensamientos-palabras-poemas.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "Poesía"
+    },
+    {
+     "TITULO": "Pensamientos y reflexiones",
+     "AUTOR": "Agüero, Camilo",
+     "EDITORIAL": "Letras Misteriosas",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-48096-9-8",
+     "MEDIDAS": "21x15",
+     "PAG": 80,
+     "CODIGO": 808892,
+     "IMAGEN": "https:\/\/i.ibb.co\/Z1b58c9\/Penamientos-y-reflexiones-Aguero-Camilo.jpg",
+     "BREVE": "Reflexiones y poemas autobiógrafos",
+     "TEMATICA": "1.Reflexiones 2. Poesía"
+    },
+    {
+     "TITULO": "Periodismo y educación: encrucijada significativa entre el San Juan de ayer y el de hoy",
+     "AUTOR": "Mosert ,Beatriz - Lahoz, Magda",
+     "EDITORIAL": "effha",
+     "IMPORTE": 2000,
+     "ISBN": "978-950-605-702-2",
+     "MEDIDAS": "21x18",
+     "PAG": 304,
+     "CODIGO": "982.63",
+     "IMAGEN": "https:\/\/i.ibb.co\/h2pRSQ5\/Periodismo-y-educaci-n-Mosert-Beatriz-coord.png",
+     "BREVE": "El periódico es el objeto fundamental de las investigaciones, en tanto ejemplo paradigmático de texto cultural y medio de comunicación privilegiado de la vida cotidiana.",
+     "TEMATICA": "Historia Regional"
+    },
+    {
+     "TITULO": "Pi 3,…D Piratas",
+     "AUTOR": "Artero López, Luis Alberto",
+     "EDITORIAL": "Anclaje",
+     "IMPORTE": 2000,
+     "ISBN": "978-987-29179-0-6",
+     "MEDIDAS": "23x15",
+     "PAG": 106,
+     "CODIGO": 863,
+     "IMAGEN": "https:\/\/i.ibb.co\/7R8FBkg\/Pi-3-D-Piratas.jpg",
+     "BREVE": "Novela",
+     "TEMATICA": "Narrativa"
+    },
+    {
+     "TITULO": "Pocito en San Juan y en el país",
+     "AUTOR": "Zaguirre, Mario- Cornejo, Laura",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-67-0",
+     "MEDIDAS": "21x15",
+     "PAG": 210,
+     "CODIGO": "982.63",
+     "IMAGEN": "https:\/\/i.ibb.co\/tznVgr6\/Pocito-en-San-Juan-y-en-el-pa-s-Zaguirre-Mario-Cornejo-Lau.jpg",
+     "BREVE": "Relato histórico de Pocito",
+     "TEMATICA": "1. Historia 2. Historia de la Provincia de San Juan"
+    },
+    {
+     "TITULO": "Políticas y programas sociales: una mirada en clave regional y local",
+     "AUTOR": "Garcés, Laura - Lucero, Marcelo",
+     "EDITORIAL": "Editorial UNSJ",
+     "IMPORTE": 2700,
+     "ISBN": "978-987-8395-31-9",
+     "MEDIDAS": "23x16",
+     "PAG": 162,
+     "CODIGO": "353.5",
+     "IMAGEN": "https:\/\/i.ibb.co\/1R7v3Zd\/Pol-tica-y-programas-sociales-Garc-s-Laura.jpg",
+     "BREVE": "Nueva visión sobre políticas sociales de San Juan, desde el pos neoliberalismo a la nueva etapa neoliberal ",
+     "TEMATICA": "Políticas Públicas"
+    },
+    {
+     "TITULO": "Prácticas docentes y deserción estudiantil",
+     "AUTOR": "Ponce, Analía",
+     "EDITORIAL": "Editorial UNSJ",
+     "IMPORTE": 2800,
+     "ISBN": "978-987-8395-07-4",
+     "MEDIDAS": "22x16",
+     "PAG": 176,
+     "CODIGO": "3.712.913",
+     "IMAGEN": "https:\/\/i.ibb.co\/NF9GYY2\/Pr-cticas-docentes-y-deserci-n-estudiantil-Ponce-Anal-a.jpg",
+     "BREVE": "Análisis de causales de retención y\/o deserción de estudiantes de primeros años de Nivel Superior en la UNSJ",
+     "TEMATICA": "1. Acceso a la Educación 2. Dificultad de Aprendizaje 3. Práctica Profesional"
+    },
+    {
+     "TITULO": "Preguntas muertas",
+     "AUTOR": "Oliva, Darío ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-35-9",
+     "MEDIDAS": "21x15",
+     "PAG": 74,
+     "IMAGEN": "https:\/\/i.ibb.co\/gmBjM2G\/Preguntas-muertas-Oliva-Dario.jpg",
+     "BREVE": "El autor en su poesía permite examinar el devenir, la dicha, la aventura de la existencia, los interrogantes que la vida depara.",
+     "TEMATICA": "Poesía"
+    },
+    {
+     "TITULO": "Protagonismos y reivindicaciones de jóvenes indígenas",
+     "AUTOR": "Guaymás, Álvaro, Chacona, Mónica",
+     "EDITORIAL": "Grupo Editor Universitario",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-8308-61-6",
+     "MEDIDAS": "21x15",
+     "PAG": 84,
+     "CODIGO": 305.235,
+     "IMAGEN": "https:\/\/i.ibb.co\/yg72189\/Protagonismos-y-reivindicaciones-de-j-venes-ind-genas-Guaym-s.jpg",
+     "BREVE": "Configuración histórica de los pueblos indígenas en Argentina marcada en los procesos históricos: la conquista, la colonización y la organización del Estado Nacional",
+     "TEMATICA": "1. Ensayo Sociológico 2. Jóvenes "
+    },
+    {
+     "TITULO": "Protagonistas: Historias de los trabajadores del Parque de Tecnologías Ambientales",
+     "AUTOR": "González, Mariana Beatriz",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-07-6",
+     "MEDIDAS": "21x15",
+     "PAG": 140,
+     "CODIGO": 920,
+     "IMAGEN": "https:\/\/i.ibb.co\/wr4VPjY\/Protagonistas-Historias-de-los-trabajadores-del-Parque-de-Tecn.jpg",
+     "BREVE": "Relatos, vivencias e historias que cada protagonista atravesó en su búsqueda de sustento diario durante días, meses y años.  ",
+     "TEMATICA": "Biografías "
+    },
+    {
+     "TITULO": "Proyecto Apocalíptia",
+     "AUTOR": "Rodríguez Romero, Matias German",
+     "EDITORIAL": "Abdulah",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-42-7358-1",
+     "MEDIDAS": "20x14",
+     "PAG": 120,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/n3zjfY4\/Proyecto-apocaliptia-Rodriguez-German.jpg",
+     "BREVE": "Novela futurista",
+     "TEMATICA": "Narrativa Argentina"
+    },
+    {
+     "TITULO": "Proyecto tecnológico: enfoque curricular y acercamiento Didáctico",
+     "AUTOR": "Silva, Daniel",
+     "EDITORIAL": " Ivy Janet Noriega",
+     "IMPORTE": 2100,
+     "ISBN": "978-987-48448-0-4",
+     "MEDIDAS": "21x14",
+     "PAG": 180,
+     "CODIGO": "373.02",
+     "IMAGEN": "https:\/\/i.ibb.co\/x8RhKjS\/Proyecto-tecnol-gico-enfoque-curricular-y-acercamiento-did-ctic.jpg",
+     "BREVE": "Son estrategias pedagógicas centrada en planificar, poner en marcha y evaluar un conjunto de actividades y procedimientos, con el fin de lograr objetivos específicos con los alumnos.",
+     "TEMATICA": "1. Tecnología 2.Didáctica 3.Proyectos Experimentales"
+    },
+    {
+     "TITULO": "Publicación N° 23 (nueva serie)  La disolución de la categoría juridico-social de \"Indio\" en el siglo XVIII: el caso de San Juan (región de Cuyo)",
+     "AUTOR": "Michieli, Catalina Teresa",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3000,
+     "ISBN": "950-605-209-3",
+     "MEDIDAS": "29x21",
+     "PAG": 135,
+     "IMAGEN": "https:\/\/i.ibb.co\/7kXypcS\/Publicaci-n-N-23-nueva-serie.jpg",
+     "BREVE": "Analiza e interpreta documentos del siglo XVIII sobre la realidad ssocio-cultural de la población indígena de San Juan (Argentina), incluidos los orígenes y evolución de sus apellidos.",
+     "TEMATICA": "Investigaciones Indígenas "
+    },
+    {
+     "TITULO": "Publicación N° 24 (nueva serie) ",
+     "AUTOR": "Michieli, Catalina Teresa",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3000,
+     "ISBN": "950-605-234-4",
+     "MEDIDAS": "29x21",
+     "PAG": 77,
+     "IMAGEN": "https:\/\/i.ibb.co\/TkxMp4b\/Publicaci-n-N-24-nueva-serie.jpg",
+     "BREVE": "Textiles de Angualasto : ratificacion de juicios a traves de cuatro fardos funerarios.Trabajos que forman parte de las investigaciones que lleva a cabo el Instituto de Investigaciones Arqueologcias sobre las diferentes ocupaciones indigenas del territorio provincial dentro del programa \"Conocimiento y difusion de la prehistoria de San Juan\". Se refieren a la textileria de los gruposagropecuarios de los periodos medio y tardio de la zona.",
+     "TEMATICA": "Textileria"
+    },
+    {
+     "TITULO": "Publicación N° 26 (nueva serie) ",
+     "AUTOR": "Genini, Guillermo F. y otros",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3000,
+     "ISBN": "950-605-351-0",
+     "MEDIDAS": "29x21",
+     "PAG": 66,
+     "CODIGO": "930.1",
+     "IMAGEN": "https:\/\/i.ibb.co\/rfQBw42\/Publicaci-n-N-26-nueva-serie.jpg",
+     "BREVE": "Trabajos dentro del proyecto \"Investigaciones arqueológicasy documentales sobre la población indígena agropecuaria prey posthispánica de San Juan\". Además del enunciado en el título, contiene: Los estudios de frontera : \"Con o sin indios\": conceptos para la interpretación de los procesos de configuración de frontera en San Juan en la época tardía colonialy estatal nacional, por María Cristina Hevilla. Los conceptos de \"Campo expandido\" y \"color\" en el análisis de petroglifos, por María Gabriela Riveros. Análisis del público docente y escolar del Museo Arqueológico dependiente del Institutode Investigaciones Arqueológicas y Museo \"Prof. Mariano Gambier\", por Claudia N. Mallea.",
+     "TEMATICA": "Historia Agraria 2. Estudio de Frontera 3. Análisis"
+    },
+    {
+     "TITULO": "Publicación N° 27 (nueva serie) Investigaciones Arqueológicas y protección de las instalaciones Incaicas de la quebrada de conconta (San Juan Argentina) +CD",
+     "AUTOR": "Michieli, Catalina Teresa y otros",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3000,
+     "ISBN": "950-605-434-7",
+     "MEDIDAS": "30x21",
+     "PAG": 44,
+     "CODIGO": 500,
+     "IMAGEN": "https:\/\/i.ibb.co\/ggkXnzW\/Michieli-Teresa-Catalina-Publicaciones-27.jpg",
+     "BREVE": "Investigaciones arqueológicas y protección de instalaciones de Conconta",
+     "TEMATICA": "Ciencias Naturales"
+    },
+    {
+     "TITULO": "Publicación N° 28 (nueva serie) Petroglifos de Colanguil (San Juan Argentina) +CD",
+     "AUTOR": "Riveros, María Gabriela",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3000,
+     "ISBN": "978-950-605-634-6",
+     "MEDIDAS": "29x21",
+     "PAG": 49,
+     "IMAGEN": "https:\/\/i.ibb.co\/0fFzbWP\/Petroglifos-de-colang-il-Riveros-Mar-a-Gabriela.png"
+    },
+    {
+     "TITULO": "Publicación N° 29 (nueva serie) Huarpes, Españoles y Jesuitas en Cuyo (siglos XVI a XVIII)",
+     "AUTOR": "Michieli, Catalina Teresa (comp.)",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3500,
+     "ISBN": "978-950-605-722-0",
+     "MEDIDAS": "29x21",
+     "PAG": 102,
+     "CODIGO": "305.8",
+     "IMAGEN": "https:\/\/i.ibb.co\/BtHF5M8\/Publicaciones-29-nueva-serie-Michieli-Catalina-Teresa-comp.png",
+     "BREVE": "En este número se publican cinco trabajos sobre etnohistoria y sobre historia colonial vinculada con la población indígena, como a continuación de la línea de investigación que lleva adelante el Instituto de Investigaciones Arqueológicas y Museo \"Prof. Mariano Gambier\" (FFHA UNSJ) desde 1976.",
+     "TEMATICA": "Etnohistoria 2. Historia Colonial"
+    },
+    {
+     "TITULO": "Publicación N° 30 (nueva serie) Modificaciones del paisaje cultural del sitio Rincon de Vallejos (San Juan)…",
+     "AUTOR": "Mallea, Claudia N. - Genini, Guillermo F.",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 3000,
+     "ISBN": "978-950-605-886-9",
+     "MEDIDAS": "29x21",
+     "PAG": 86,
+     "CODIGO": 907,
+     "IMAGEN": "https:\/\/i.ibb.co\/VY6wncG\/Publicaci-n-30-Mallea-Claudia-Genini-Guillermo.jpg",
+     "BREVE": "En este número se publica un trabajo arqueológico y tres referido a historia colonial.",
+     "TEMATICA": "Historia Regional"
+    },
+    {
+     "TITULO": "Puntada sin hilo",
+     "AUTOR": "Oliveras, Gabriel Fernando ",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-45285-5-1",
+     "MEDIDAS": "22x15",
+     "PAG": 88,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/Nm2Ks7j\/Puntada-sin-hilo-Oliveras-Gabriel-F.jpg",
+     "BREVE": "Dicen que cada decisión que tomamos es una puntada con la que vamos hilvanando los instantes de nuestra vida. Pero ¿qué hacemos ante lo inevitable del destino o del designio de Dios, ante misterios como la muerte, el amor el miedo a lo desconocido? Estos relatos transitan algunas de esas encrucijadas, donde lo único imposible es evitar la puntada por falta de hilo.",
+     "TEMATICA": "1.Cuentos"
+    },
+    {
+     "TITULO": "Qué le habremos hecho al tiempo",
+     "AUTOR": "García Binachi, Nicolás",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-63-2",
+     "MEDIDAS": "21x15",
+     "PAG": 88,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/WFcsdzs\/Que-le-habremos-hecho-al-tiempo-Garcia-Binaghi-Nicolas.jpg",
+     "BREVE": "Cuentos de Ficción ",
+     "TEMATICA": "1.Cuentos 2.Narrativa Argentina"
+    },
+    {
+     "TITULO": "Queremos cuidar a los niños del mundo ",
+     "AUTOR": "Barzola, Erica",
+     "EDITORIAL": " Ivy Janet Noriega",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-86-2147-0",
+     "MEDIDAS": "20x21",
+     "PAG": 16,
+     "CODIGO": 371714,
+     "IMAGEN": "https:\/\/i.ibb.co\/4j25Fb6\/Queremos-cuidar-a-los-ni-os-del-mundo-Barzola-Erica.jpg",
+     "BREVE": "Por qué enseñar ESI en nivel inicial",
+     "TEMATICA": "1. Educación Sexual Integral "
+    },
+    {
+     "TITULO": "Quinta Poesía Convergente  ",
+     "AUTOR": "Artero López, Luis",
+     "EDITORIAL": "Anclaje",
+     "IMPORTE": 2000,
+     "ISBN": "987-23132-2-9",
+     "MEDIDAS": "22x17",
+     "PAG": 100,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/Sv35S2T\/Quinta-Poes-a-Convergente.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "Poesía Argentina"
+    },
+    {
+     "TITULO": "Quintaesencia: una alquimia literária y una carta de amor",
+     "AUTOR": "Posatini, Francisco",
+     "EDITORIAL": "Josue Manzini",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-42-6335-3",
+     "MEDIDAS": "22x15",
+     "PAG": 164,
+     "CODIGO": "853",
+     "IMAGEN": "https:\/\/i.ibb.co\/ggkVkcL\/Quintaesencia-Posatini-Francisco.jpg",
+     "BREVE": "Micro narraciones",
+     "TEMATICA": "1. Narrativa Italiana"
+    },
+    {
+     "TITULO": "Ráfagas de letras: antología de San Juan",
+     "AUTOR": "Ruiz, Nélida - González, Rosa B.",
+     "EDITORIAL": "Cámara de Diputados San Juan",
+     "IMPORTE": 3000,
+     "ISBN": "978-987-4034-99-1",
+     "MEDIDAS": "20x16",
+     "PAG": 190,
+     "CODIGO": "A860",
+     "IMAGEN": "https:\/\/i.ibb.co\/F5PN5TK\/R-fagas-de-letras-Antolog-a-de-San-Juan-Ruiz-N-lida-Gonz-lez.jpg",
+     "BREVE": "Antología con imágenes elocuentes de los sentidos puestos en el terruño que huele a recuerdos.  ",
+     "TEMATICA": "1. Poesía Regional 2, Narrativa en Español 3. Literatura"
+    },
+    {
+     "TITULO": "Raíces del Cuyum",
+     "AUTOR": "Olmedo, Álvaro",
+     "IMPORTE": 3900,
+     "ISBN": "978-987-4204-37-0",
+     "MEDIDAS": "24x23",
+     "PAG": 86,
+     "CODIGO": "398.2",
+     "IMAGEN": "https:\/\/i.ibb.co\/DwhYYHL\/Ra-ces-del-Cuyum-Olmedo-lvaro.jpg",
+     "BREVE": "Historias de Mitos, Leyendas Argentinas y Leyendas Urbanas.",
+     "TEMATICA": "1 Mitos"
+    },
+    {
+     "TITULO": "Ramón \"la muerte\" Varela",
+     "AUTOR": "Videla Moya, Guillermo Horacio",
+     "EDITORIAL": "Dunken",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-85-1053-8",
+     "MEDIDAS": "23x16",
+     "PAG": 264,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/FYbt10W\/Ram-n-la-muerte-Videla-Moya-Guillermo-Varela.jpg",
+     "BREVE": "Novela",
+     "TEMATICA": "1. Narrativa Argentina 2. Novelas"
+    },
+    {
+     "TITULO": "Realidades irreales",
+     "AUTOR": "Cabello, Melisa",
+     "EDITORIAL": "Clara Beter",
+     "IMPORTE": 2500,
+     "ISBN": "978-987-4167-86-6-",
+     "MEDIDAS": "20x14",
+     "PAG": 80,
+     "CODIGO": "A860",
+     "IMAGEN": "https:\/\/i.ibb.co\/f9SXyRS\/Realidades-irreales-Cabello-Melisa.jpg",
+     "BREVE": "En los doce cuentos que forman parte de&nbsp;Realidades irreales&nbsp;las cosas no son lo que parecen. Algunos de los personajes que los habitan esconden su verdadera naturaleza o transfiguran la realidad que los rodean. Los límites que nos separan de lo fantástico parecen difuminarse.&nbsp;El hallazgo de una tumba milenaria en Sicilia, el rutinario trabajo de un traductor sueco, un terremoto en medio de la noche, una compañera de viaje llorosa, una anciana adicta a las palmeritas: en estas páginas el lector va a encontrar que un mínimo gesto o palabra puede alterar la percepción de lo que consideraba evidente.&nbsp;",
+     "TEMATICA": "Cuentos"
+    },
+    {
+     "TITULO": "Recordación y Homenaje . La UCC al Dr. Horacio Videla en el  centenaro de su natalicio ",
+     "EDITORIAL": "Fondo Editorial UCC",
+     "IMPORTE": 500,
+     "ISBN": "950-559-125-X",
+     "MEDIDAS": "21x15",
+     "PAG": 108,
+     "IMAGEN": "https:\/\/i.ibb.co\/D187gSH\/Recordaci-n-y-homenaje-La-Universidad-Cat-lica-de-Cuyo-al-Dr-H.png"
+    },
+    {
+     "TITULO": "Recuerdos de provincia ",
+     "AUTOR": "Sarmiento, Domingo Faustino",
+     "EDITORIAL": "Asociación Amigos del museo y biblioteca casa natal de D. F. Sarmiento",
+     "IMPORTE": 4000,
+     "ISBN": "978-987-46086-0-4",
+     "MEDIDAS": "21x15",
+     "PAG": 416,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/z8Sw4gF\/Recuerdos-de-Provincia-Sarmiento-Domingo-F-Fund-Bco-San-J.jpg",
+     "BREVE": "Este libro pone a disposición de la comunidad las vivencias y sentimientos de uno de los más destacados pensadores de América Latina del siglo XIX. IIustra situaciones cotidianas de su época, de personajes que abrazaron los ideales de libertad y lucharon por su dignidad. ",
+     "TEMATICA": "1. Narrativa Argentina.2. San Juan."
+    },
+    {
+     "TITULO": "Redefinir la mirada: la formación docente no-presencial en la Universidad Nacional de San Juan",
+     "AUTOR": "Waisman, Elena R.- Olivares, Mario",
+     "EDITORIAL": "effha",
+     "IMPORTE": 1000,
+     "ISBN": "978-950-605-531-8",
+     "MEDIDAS": "22x17",
+     "PAG": 180,
+     "CODIGO": 378125,
+     "IMAGEN": "https:\/\/i.ibb.co\/3RQKhjL\/Redefinir-la-mirada-Waisman-Rut-Elena-y-otros.png",
+     "BREVE": "En base al análisis de la situación social actual y a la representación de una sociedad futura, se reflexiona sobre la práctica educativa (enseñanza y aprendizaje) no presencial, ofreciendo nuevos marcos teóricos.",
+     "TEMATICA": "1. Formación Docente 2. Educación Superior"
+    },
+    {
+     "TITULO": "Región Binacional Educativa San Juan (Argentina) Coquimbo ( Chile)",
+     "AUTOR": "Bartol, Rossana y otros",
+     "EDITORIAL": "UCC",
+     "IMPORTE": 2600,
+     "ISBN": "978-987-3984-36-5",
+     "MEDIDAS": "21x15",
+     "PAG": 152,
+     "CODIGO": 379,
+     "IMAGEN": "https:\/\/i.ibb.co\/DfK7n4J\/Regi-n-Binacional-Educativa-Bartol-Rossana-y-otros.jpg",
+     "BREVE": "En base a una raíz cultural común, este libro hace énfasis en que la apertura del túnel de Paso de Agua Negra enriquezca los lazos culturales y educativos",
+     "TEMATICA": "Educación"
+    },
+    {
+     "TITULO": "Relatos de mi abuela",
+     "AUTOR": "Jaled, Sarui Lola",
+     "EDITORIAL": "Autores de Argentina",
+     "IMPORTE": 1800,
+     "ISBN": "978-987-87-0700-6",
+     "MEDIDAS": "21x15",
+     "PAG": 70,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/Jkztcwr\/Relatos-de-mi-abuela-Sarui-Lola-Jaled.jpg",
+     "BREVE": "Cuentos narrados.",
+     "TEMATICA": "1.Cuentos 2. Narrativa Argentina"
+    },
+    {
+     "TITULO": "Relatos en colores: antología narrativa de escritores rawsinos",
+     "EDITORIAL": "Gracica (IGZ)",
+     "IMPORTE": 2500,
+     "MEDIDAS": "23x16",
+     "PAG": 116,
+     "IMAGEN": "https:\/\/i.ibb.co\/YQ0zfpR\/Relatos-en-colores-Atencio-Lucas.jpg",
+     "BREVE": "Relatos gráficos",
+     "TEMATICA": "1.Relatos"
+    },
+    {
+     "TITULO": "Resiliencia y Ocio. Un escenario promotor del desarrollo",
+     "AUTOR": "Bitar, Tamara Abigail- Ortuzar, Aurora Madariaga",
+     "EDITORIAL": "EFU",
+     "IMPORTE": 2000,
+     "ISBN": "978-987-8395-30-2",
+     "MEDIDAS": "22x16",
+     "PAG": 94,
+     "IMAGEN": "https:\/\/i.ibb.co\/DRTxTCc\/Resiliencia-y-Ocio-Un-escenario-promotor-del-desarrollo-Bitar.jpg",
+     "BREVE": "Entendida como la capacidad de atravesar situaciones complejas de un modo proactivo, la Resiliencia abre nuestras posibilidades para  con otras y otros desde perspectivas novedosas. Si a lo anterior le sumamos los enfoques del Ocio, las relaciones tienden a volverse más reflexivas, igualitarias y solitarias.",
+     "TEMATICA": "1. Resiliencia 2. Ocio"
+    },
+    {
+     "TITULO": "Revista de Geografía Nº 18 -año 2014-",
+     "AUTOR": "Poblete, Arnobio G. (Dir.)",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 1000,
+     "ISBN": "1514-1942",
+     "MEDIDAS": "21x30",
+     "PAG": 73,
+     "IMAGEN": "https:\/\/i.ibb.co\/DYPn3yg\/Revista-de-Geograf-a-N-18-Poblete-Arnobio-G.jpg",
+     "BREVE": "La revista de Geografía del Instituto de Geografía Aplicadas y Departamento de Geografía de la Facultad de Filosofía, Humanidades y Artes, nace por la necesidad de los geógrafos sanjuaninos de poseer un ámbito propicio y seguro que permita la publicación de los resultados de sus investigadores provenientes de su accionar en proyectos de investigación institucionalizados y\/o de sus cátedras",
+     "TEMATICA": "Geografía"
+    },
+    {
+     "TITULO": "Revista de Geografía Nº 19-año 2015-",
+     "AUTOR": "Poblete, Arnobio G.  (Dir.)",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 1000,
+     "ISBN": "1514-1942",
+     "MEDIDAS": "21x30",
+     "PAG": 63,
+     "IMAGEN": "https:\/\/i.ibb.co\/qxfwz0k\/Revista-de-geograf-a-19.jpg",
+     "BREVE": "La Revista de Geografía del Instituto de Geografía Aplicada y Departamento de Geografía de la FFHA, nace por la necesidad de los geógrafos sanjuaninos de poseer un ámbito propicio y seguro que permita la publicación de los resultados de sus investigaciones provenientes de su accionar en proyectos de la investigaciones provenientes de su accionar en proyectos de investigación institucionalizados y\/o de sus cátedras.",
+     "TEMATICA": "Geografía"
+    },
+    {
+     "TITULO": "Revista de Geografía Nº 20-año 2016-",
+     "AUTOR": "Poblete, Arnobio G.  (Dir.)",
+     "EDITORIAL": "FFHA UNSJ",
+     "IMPORTE": 1000,
+     "ISBN": "1514-1942",
+     "MEDIDAS": "21x30",
+     "PAG": 91,
+     "IMAGEN": "https:\/\/i.ibb.co\/8dQ6sry\/Revista-de-geograf-a-20.jpg",
+     "BREVE": "La Revista de Geografía del Instituto de Geografía Aplicada y Departamento de Geografía de la FFHA, nace por la necesidad de los geógrafos sanjuaninos de poseer un ámbito propicio y seguro que permita la publicación de los resultados de sus investigaciones provenientes de su accionar en proyectos de la investigaciones provenientes de su accionar en proyectos de investigación institucionalizados y\/o de sus cátedras.",
+     "TEMATICA": "Geografía"
+    },
+    {
+     "TITULO": "Rincon de vida",
+     "AUTOR": "Agüero, Camilo",
+     "EDITORIAL": "Letras Misteriosas",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-48096-801",
+     "MEDIDAS": "21x15",
+     "PAG": 90,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/n1LZhyP\/Rincon-de-vida-Aguero-Camilo.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1. Poesía Argentina"
+    },
+    {
+     "TITULO": "Rivadavia Geopark: Reconstruyendo la historia de la quebrada y valle parque Dr. Federico Cantoni",
+     "AUTOR": "Castro, Domingo",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-30-4",
+     "MEDIDAS": "21x15",
+     "PAG": 105,
+     "CODIGO": 911098263,
+     "IMAGEN": "https:\/\/i.ibb.co\/54kfZYj\/Castro-Domingo-Rivadavia-Geopark-copia.jpg",
+     "BREVE": "Historia del parque quebrada y valle “Dr. Federico Cantoni”",
+     "TEMATICA": "1. Historia de la Provincia de San Juan 2. Flora 3. Fauna"
+    },
+    {
+     "TITULO": "Rocas de Huachi",
+     "AUTOR": "Ferreyra, Luis Oscar",
+     "EDITORIAL": "El Momo",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-45872-7-5",
+     "MEDIDAS": "21x15",
+     "PAG": 113,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/B4JwWvv\/Rocas-de-Huachi-Luis-Ferreyra.jpg",
+     "BREVE": "Poesía del paisaje, canto a Jáchal, sus costumbres, su pueblo, su paisaje. Poesía de tema amoroso.",
+     "TEMATICA": "Poesía Argentina"
+    },
+    {
+     "TITULO": "Romper Cadenas",
+     "AUTOR": "Rodríguez, Viviana- Soler, Sergio",
+     "EDITORIAL": "Autor",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-783-657-8",
+     "MEDIDAS": "14x14",
+     "PAG": 137,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/pPhcBNF\/Romper-Cadenas.jpg",
+     "BREVE": "Relatos sobre la violencia de género. ",
+     "TEMATICA": "Violencia de Género 2. Narrativa Argentina Contemporánea "
+    },
+    {
+     "TITULO": "Rostro de tierra",
+     "AUTOR": "Zúccoli Fidanza, Ofelia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-8265-09-4",
+     "MEDIDAS": "21x15",
+     "PAG": 190,
+     "IMAGEN": "https:\/\/i.ibb.co\/XjM0x1n\/Rostro-de-tierra-Zuccoli-Fidanza-Ofelia.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1. Literatura Argentina 2. ¨Poesía 3. Poesía contemporánea Argentina"
+    },
+    {
+     "TITULO": "San Agustín y Nosotros",
+     "AUTOR": "García, Juan José",
+     "EDITORIAL": "Editorial Universitaria UCCCuyo",
+     "IMPORTE": 2800,
+     "ISBN": "978-987-3971-70-9",
+     "MEDIDAS": "21x16",
+     "PAG": 210,
+     "CODIGO": "235.2",
+     "IMAGEN": "https:\/\/i.ibb.co\/gg1nKNJ\/San-Agustin-y-nosotros-Garcia-Jos-Juan.jpg",
+     "BREVE": "El pensamiento de San Agustín y su incidencia en nuestro pensamiento.",
+     "TEMATICA": "Santos Cristianos"
+    },
+    {
+     "TITULO": "San Juan Ardiente.",
+     "AUTOR": "Herrera, Lidia y otras (comp.)",
+     "EDITORIAL": "Grupo Literario las Ñustas y el Sol",
+     "IMPORTE": 2200,
+     "ISBN": "978-987-86-3649-8",
+     "MEDIDAS": "24x16",
+     "PAG": 184,
+     "IMAGEN": "https:\/\/i.ibb.co\/HDw89Vp\/San-Juan-Ardiente-Herrera-Lidia-et-al-comp.jpg",
+     "BREVE": "Esta obra aborda: historia, datos culturales de los distintos departamentos, arte, cultura, referencia a sanjuaninos destacados. ",
+     "TEMATICA": "1. Historia Regional 2. San Juan"
+    },
+    {
+     "TITULO": "San Juan en vena San Juan a tus ojos",
+     "AUTOR": "Artero López, Luis Alberto",
+     "EDITORIAL": "Anclaje",
+     "IMPORTE": 2000,
+     "ISBN": "978-987-25124-4-6",
+     "MEDIDAS": "20x14",
+     "PAG": 80,
+     "CODIGO": "A861",
+     "IMAGEN": "https:\/\/i.ibb.co\/ZKQgtXq\/San-Juan-en-vena-San-Juan-a-tus-ojos.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "Poesía Argentina"
+    },
+    {
+     "TITULO": "San Juan escribe cuentos y relatos ",
+     "AUTOR": "Flores, Darío-Aciar, Nahuel- Cabello, Melisa Laura",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-80-9",
+     "MEDIDAS": "21x15",
+     "PAG": 48,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/D1W6gWY\/San-Juan-Escribe-Cuentos-y-Relatos-Flores-Dar-o-Aciar-Nahue.jpg"
+    },
+    {
+     "TITULO": "San Juan República Argentina",
+     "AUTOR": "Muñoz Lorenzo, Gustavo Javier",
+     "EDITORIAL": "GHM-Editores",
+     "IMPORTE": 6000,
+     "ISBN": "978-987-25794-9-4",
+     "MEDIDAS": "31x24",
+     "PAG": 244,
+     "CODIGO": "338.4791",
+     "IMAGEN": "https:\/\/i.ibb.co\/DkFVvJs\/San-Juan-Rep-blica-Argentina-Mu-oz-Lorenza-Gustavo.jpg",
+     "BREVE": "Intenta mediante el arte la fotografía y el turismo, captar sus colores, sus aromas, sus sabores, sus esfuerzos, sus melodías, su calidez y tradiciones. ",
+     "TEMATICA": "1. Arte de la provincia de San Juan 2. Fotografía 3. Turismo"
+    },
+    {
+     "TITULO": "Sanjuaninos del ochenta",
+     "AUTOR": "Guerrero, Cesar H.",
+     "EDITORIAL": "Sanjuanina",
+     "IMPORTE": 3000,
+     "MEDIDAS": "22x15",
+     "PAG": 230,
+     "IMAGEN": "https:\/\/i.ibb.co\/5v0g7RM\/Sanjuaninos-del-ochenta-Guerrero-C-sar-H.png",
+     "BREVE": "En esta obra se destaca la vida de figuras notables que contribuyeron en el pasado histórico provincial.",
+     "TEMATICA": "Biografía 2. Historia Regional"
+    },
+    {
+     "TITULO": "Saraza: un rompecabezas sobre la incomunicación ",
+     "AUTOR": "Musacchio, María Alicia",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-72-4",
+     "MEDIDAS": "21x15",
+     "PAG": 166,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/R44rG4Y\/Saraza-un-rompecabezas-sobre-la-incomunicaci-n-Musacchio-Mar.jpg"
+    },
+    {
+     "TITULO": "Sarmiento Acusación y Defensa",
+     "AUTOR": "Videla, Horacio",
+     "EDITORIAL": "Fondo Editorial UCC",
+     "IMPORTE": 500,
+     "ISBN": "950-559-163-2",
+     "MEDIDAS": "21x15",
+     "PAG": 118,
+     "CODIGO": 982,
+     "IMAGEN": "https:\/\/i.ibb.co\/Xpw5tbC\/Sarmiento-Acusaci-n-y-Defensa-Videla-Horacio.png",
+     "BREVE": "Participar en polémica sobre Sarmiento, aunque sea para defenderlo, hace experimentar una incomodidad inexplicable. Parecería que el solo anunciar las acusaciones que se le formulan y los juicios que lo disminuyen, bajándolo de la estatura a tal punto de confundirlo con todos los mortales, fuera aceptarlo.",
+     "TEMATICA": "Historia Argentina"
+    },
+    {
+     "TITULO": "Sarmiento educación religiosa. \"la conciencia de un niño\" catecismo para niños del S. XIX",
+     "AUTOR": "Mariel Erostarbe, Juan",
+     "EDITORIAL": "Asociación Amigos del museo y biblioteca casa natal de D. F. Sarmiento",
+     "IMPORTE": 2000,
+     "ISBN": "987-20427-0-5",
+     "MEDIDAS": "21x15",
+     "PAG": 110,
+     "CODIGO": "A864.44",
+     "IMAGEN": "https:\/\/i.ibb.co\/C61zS0g\/Sarmiento-y-la-educaci-n-religiosa-La-conciencia-de-un-ni-o-C.jpg",
+     "BREVE": "Estudio sobre las consideraciones del prócer a cerca de la influencia religiosa en la educación y conciencia de los niños.",
+     "TEMATICA": "Ensayos Sanjuaninos- Catecismos"
+    },
+    {
+     "TITULO": "Sarmiento La historia en Historieta",
+     "AUTOR": "Rodríguez, Jorge Edgardo",
+     "EDITORIAL": "EFU",
+     "IMPORTE": 3500,
+     "ISBN": "978-950-605-697-1",
+     "MEDIDAS": "26x23",
+     "PAG": 164,
+     "CODIGO": "741.6",
+     "IMAGEN": "https:\/\/i.ibb.co\/0Zc6Z8W\/Sarmiento-Rodr-guez-Jorge-Eduardo.png",
+     "BREVE": "Libro en formato de historieta que muestra desde la niñez a la vejez del prócer, narrando escenas de su vida familiar, política, viajes, polémicas, anécdotas de su infancia y adolescencia.",
+     "TEMATICA": "Comics Históricos -Dibujo."
+    },
+    {
+     "TITULO": "Sebastian y sus mascotas",
+     "AUTOR": "Jaled, Sarui Lola",
+     "EDITORIAL": "Autores de Argentina",
+     "IMPORTE": 1500,
+     "ISBN": "978-987-87-3393-7",
+     "MEDIDAS": "20x20",
+     "PAG": 16,
+     "CODIGO": "A863.9282",
+     "IMAGEN": "https:\/\/i.ibb.co\/tYqm1Jx\/Las-travesuras-de-Sebastian-Sarui-Lola-Jaled.jpg",
+     "BREVE": "Las aventuras de Sebastián ",
+     "TEMATICA": "1. Narrativa Argentina 2. Literatura Infantil"
+    },
+    {
+     "TITULO": "Segunda poesía convergente",
+     "AUTOR": "Artero López, Luis Alberto",
+     "EDITORIAL": "Editorial Martín",
+     "IMPORTE": 2000,
+     "ISBN": "950-9635-27-8",
+     "MEDIDAS": "21x15",
+     "PAG": 117,
+     "IMAGEN": "https:\/\/i.ibb.co\/qsDRH29\/Segunda-poes-a-convergente-Artero-L-pez-Luis-Alber.jpg",
+     "BREVE": "Poemario",
+     "TEMATICA": "1. Poesía"
+    },
+    {
+     "TITULO": "Senderos del alma",
+     "AUTOR": "Alem, Elena",
+     "EDITORIAL": "Signos del Sur",
+     "IMPORTE": 2500,
+     "ISBN": "978-987-48598-2-2",
+     "MEDIDAS": "21x14",
+     "PAG": 106,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/GR7h8pp\/Senderos-del-alma-Alem-Elena.jpg",
+     "BREVE": "Es una invitación a la imaginación, pero sobre todo a la ternura y abrirse  a los sentimientos más profundos.",
+     "TEMATICA": "1 Narrativa  Argentina 2. Memorias Autobiográficas 3.Cuentos "
+    },
+    {
+     "TITULO": "Sentimientos de mi vida",
+     "AUTOR": "Agüero, Camilo",
+     "EDITORIAL": "Letras Misteriosas",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-48800-0-0",
+     "MEDIDAS": "22x15",
+     "PAG": 60,
+     "CODIGO": "A860",
+     "IMAGEN": "https:\/\/i.ibb.co\/Gcj6P0T\/Sentimientos-de-mi-vida-Aguero-Camilo.jpg",
+     "BREVE": "Poemas autobiográficos ",
+     "TEMATICA": "1.Literatura Argentina 2. Poesía 3. Historias de familia"
+    },
+    {
+     "TITULO": "Si estás en la siesta",
+     "AUTOR": "Noriega, Ivy Janet",
+     "EDITORIAL": " Ivy Janet Noriega",
+     "IMPORTE": 1000,
+     "ISBN": "978-987-86-207-87",
+     "MEDIDAS": "21x14",
+     "PAG": 72,
+     "IMAGEN": "https:\/\/i.ibb.co\/QfXXMsJ\/Si-estas-en-la-siesta-antologia-literaria-escrita-por-chicos-Varon-Luli.jpg",
+     "BREVE": "Es una antología enfocada en la motivación a niños, adolescentes y jóvenes a husmear en el límite entre los mitos y la realidad que vive en cada uno.",
+     "TEMATICA": "1.Didáctica 2. Planificación de la Educación"
+    },
+    {
+     "TITULO": "Siestas",
+     "AUTOR": "Martinez, Iván",
+     "EDITORIAL": "Fondo Editorial Cámara de Diputados de San Juan",
+     "IMPORTE": 1300,
+     "ISBN": "978-987-4034-74-8",
+     "MEDIDAS": "12x16",
+     "PAG": 96,
+     "CODIGO": "A863",
+     "IMAGEN": "https:\/\/i.ibb.co\/C8Tqv4J\/Siestas-Martinez-Ivan.jpg"
     }
    ]
